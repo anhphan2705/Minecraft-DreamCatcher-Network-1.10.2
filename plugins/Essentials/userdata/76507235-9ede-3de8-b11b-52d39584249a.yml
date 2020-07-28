@@ -1,0 +1,25 @@
+lastAccountName: DaryEdwin
+timestamps:
+  login: 1500956853649
+  kits:
+    pariah: 1500548533087
+    governor: 1500947942774
+    food: 1500947083281
+  lastteleport: 1500956732588
+  logout: 1500956968927
+ipAddress: 115.72.13.198
+lastlocation:
+  world: world
+  x: -15934.377000987304
+  y: 32.0
+  z: 11027.940384400441
+  yaw: 44.11467
+  pitch: -1.3500024
+logoutlocation:
+  world: spawn
+  x: 7.349814777043155
+  y: 104.0
+  z: 1.6999999880790724
+  yaw: -25.043575
+  pitch: 24.150032
+money: '6272.48000000000007'

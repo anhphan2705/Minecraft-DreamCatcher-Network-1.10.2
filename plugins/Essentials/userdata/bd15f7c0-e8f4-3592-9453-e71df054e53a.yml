@@ -1,0 +1,41 @@
+lastAccountName: TriDepTraiVCL
+timestamps:
+  login: 1500976343625
+  logout: 1500977711711
+  lastteleport: 1500977668101
+  kits:
+    slave: 1499242249854
+    op: 1499155228033
+    citizen: 1500203519305
+    pariah: 1500339345877
+    governor: 1500976391934
+  jail: 0
+ipAddress: 14.164.98.74
+logoutlocation:
+  world: spawn
+  x: -18.108770424476134
+  y: 103.0
+  z: 1.5632221864156293
+  yaw: 85.50662
+  pitch: 29.700018
+lastlocation:
+  world: PvPArea
+  x: 812.0371579544211
+  y: 22.088477469609376
+  z: 378.31482435579534
+  yaw: -2.8501484
+  pitch: 12.300036
+nickname: TriDepTraiVCL
+godmode: false
+homes:
+  home:
+    world: world
+    x: 19995.052938399615
+    y: 68.0
+    z: 19973.67113020454
+    yaw: 54.63018
+    pitch: 26.100006
+afk: false
+jailed: false
+teleportenabled: true
+money: '10707231.44'

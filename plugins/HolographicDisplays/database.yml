@@ -1,0 +1,71 @@
+pvp:
+  location: PvPArea, 827.245, 63.200, 383.440
+  lines:
+  - '&b&lChào mừng tới &7&lWarp &4&lPvP'
+  - '&7&l- &e&lKhông &f&lMất đồ sau khi chết'
+  - '&7&l- &e&lKhông &f&ltổn thương khi rơi từ độ cao'
+  - '&7&l- &e&lKhông &f&lMất Power và Money khi bị giết'
+survival:
+  location: world, -167.402, 68.908, -567.577
+  lines:
+  - '&b&lWarp &a&lSurvival'
+  - '&f&lServer &e&lNon-Keep &f&lnên chết sẽ &c&lmất đồ'
+  - '&f&lServer &e&lcho phép &c&lTrap-kill'
+  - '&f&lCó thể &e&l/wild &f&lđể đi survival nhưng tốn &c&l25$'
+trade:
+  location: spawn, -31.941, 105.505, 6.524
+  lines:
+  - '&7&lWarp &2&lTrade'
+  - '&f&lNơi bạn có thể &6&ltrao đổi &f&lvới các &6&lnhà buôn &f&lvà &6&lđộng vật'
+  - '&f&lHãy theo dõi để xem những trade mới được cập nhật'
+jail:
+  location: Jail, 2.559, 112.001, 1.566
+  lines:
+  - '&7&lWarp &4&lJail'
+  - '&c&lNơi Giam Cầm Tù Nhân'
+  - '&f&lNơi giam cầm những người'
+  - '&f&lĐã &6&lvi phạm &f&lluật chung của server'
+  - '&f&lĐi xuống để xem các gương mặt đáng xấu hổ này :D'
+jail_1:
+  location: Jail, 29.700, 91.000, -20.414
+  lines:
+  - '&c&lNhà tù &a&lthường &c&lsố 1'
+jail_2:
+  location: Jail, 28.700, 91.200, -5.408
+  lines:
+  - '&c&lNhà tù &a&lthường &c&lsố 2'
+jail_3:
+  location: Jail, 28.700, 91.200, 9.673
+  lines:
+  - '&c&lNhà tù &a&lthường &c&lsố 3'
+jail_4:
+  location: Jail, 28.700, 91.200, 24.521
+  lines:
+  - '&c&lNhà tù &a&lthường &c&lsố 4'
+enchant:
+  location: spawn, 36.891, 96.876, -23.538
+  lines:
+  - '&7&lWarp &b&lEnchant'
+  - '&f&lBạn có thể phù phép vũ khí và giáp ở đây'
+spawn:
+  location: spawn, 13.753, 100.053, -2.891
+  lines:
+  - '&c&lChào mừng bán đến với Server &d&lDream&e&lCatcher'
+  - '&6&l/warp &f&lđể coi những nơi có thể dịch chuyển'
+  - '&6&l/kit &f&lđể nhận đồ hỗ trợ trực tuyến từ server'
+  - '&6&l/rules &f&lđể đọc luật của server và để tránh mắc lỗi'
+  - '&6&l/help &f&lđể coi các lệnh mà bạn có thể thực hiện được'
+  - '&f&lKeep &6&lCalm &f&land &6&lEnjoy &f&lour server =D'
+tradespawner:
+  location: spawn, -36.836, 102.494, 26.164
+  lines:
+  - '&f&lKhu trade các loại &e&lSpawners'
+  - '&f&lvà các vật dụng khác'
+dungeon:
+  location: dungeon, 1.306, 90.908, -2.009
+  lines:
+  - '&f&lWarp &c&lDungeon'
+minigame:
+  location: minigame, 2603.247, 24.908, -1501.994
+  lines:
+  - '&7Warp &eMinigame'

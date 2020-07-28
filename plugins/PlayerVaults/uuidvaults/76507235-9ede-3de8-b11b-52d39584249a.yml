@@ -1,0 +1,33 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'

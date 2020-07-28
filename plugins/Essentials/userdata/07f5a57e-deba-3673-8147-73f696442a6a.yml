@@ -1,0 +1,32 @@
+lastAccountName: MinhNhutVN
+timestamps:
+  login: 1501047280120
+  lastteleport: 1501043597218
+  kits:
+    pariah: 1500971442193
+    food: 1501036700487
+  logout: 1501048936877
+ipAddress: 123.22.38.183
+lastlocation:
+  world: PvPArea
+  x: 833.323123194919
+  y: 21.0
+  z: 360.9011195221172
+  yaw: -169.5
+  pitch: 83.70008
+logoutlocation:
+  world: world
+  x: 24394.61888033947
+  y: 59.0
+  z: 24508.47447015028
+  yaw: -93.22266
+  pitch: 50.84999
+money: '71644.180000000001856'
+homes:
+  home:
+    world: world
+    x: -2189.994094747673
+    y: 48.0
+    z: 1642.8657064569816
+    yaw: -161.10954
+    pitch: 11.345869

@@ -1,0 +1,48 @@
+lastAccountName: Block_of_Gold
+timestamps:
+  login: 1500293438978
+  logout: 1500293461682
+  lastteleport: 1500288327275
+  jail: 0
+  kits:
+    politician: 1500290147385
+    food: 1500290794028
+ipAddress: 183.81.52.207
+lastlocation:
+  world: spawn
+  x: 31.246702163927512
+  y: -204.98680578759067
+  z: -3.074999988079073
+  yaw: -164.39334
+  pitch: 47.70004
+logoutlocation:
+  world: world
+  x: 261.1890766747194
+  y: 70.0
+  z: -386.8208437803315
+  yaw: 9.154068
+  pitch: 14.399992
+money: '15000.0'
+jailed: false
+homes:
+  pa:
+    world: spawn
+    x: -22.59328919183484
+    y: 102.9375
+    z: 3.647032559598044
+    yaw: -71.39328
+    pitch: 47.550014
+  db:
+    world: spawn
+    x: -23.760048972651663
+    y: 103.0
+    z: 7.118339465656228
+    yaw: -71.39328
+    pitch: 47.550014
+  padb:
+    world: spawn
+    x: -24.990430577301026
+    y: 103.0
+    z: 10.699999988079071
+    yaw: -71.39328
+    pitch: 47.550014

@@ -1,0 +1,48 @@
+lastAccountName: MyNameIsHuy
+timestamps:
+  login: 1501037390019
+  logout: 1501038478881
+  kits:
+    slave: 1500210297626
+    senator: 1500770809899
+    op: 1499178250601
+    citizen: 1500770814700
+    governor: 1500770568277
+  lastteleport: 1501038340651
+  jail: 0
+ipAddress: 115.74.11.92
+logoutlocation:
+  world: dungeon
+  x: 69.87234672015907
+  y: 163.5964078693472
+  z: -177.90527685118374
+  yaw: 160.81036
+  pitch: 24.149923
+lastlocation:
+  world: world
+  x: 24397.69999998808
+  y: 57.0
+  z: 24498.634545233315
+  yaw: 72.66444
+  pitch: 5.6999846
+godmode: true
+afk: false
+money: '981632110.67000000000001'
+jailed: false
+teleportenabled: true
+homes:
+  fac:
+    world: world
+    x: -15984.076375658433
+    y: 73.0
+    z: 10996.549248728788
+    yaw: 97.04047
+    pitch: 17.699982
+  padb:
+    world: world
+    x: 12566.603376009643
+    y: 57.0
+    z: -5139.038637942563
+    yaw: 86.990845
+    pitch: 5.549959
+nickname: §e§lZeb§d§lPA

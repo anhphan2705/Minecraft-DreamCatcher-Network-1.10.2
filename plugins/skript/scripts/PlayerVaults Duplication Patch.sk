@@ -1,0 +1,41 @@
+on command "/pv":
+	loop blocks in radius 2 around the player:
+		loop-block is lily pad or carpet
+		cancel event
+		send "&4&l<!> &4Duplication Glitch Attempt Detected!" to player
+		
+on command "/playervaults":
+	loop blocks in radius 2 around the player:
+		loop-block is lily pad or carpet
+		cancel event
+		send "&4&l<!> &4Duplication Glitch Attempt Detected!" to player
+	
+on command "/vault":
+	loop blocks in radius 2 around the player:
+		loop-block is lily pad or carpet
+		cancel event
+		send "&4&l<!> &4Duplication Glitch Attempt Detected!" to player
+	
+on command "/chest":
+	loop blocks in radius 2 around the player:
+		loop-block is lily pad or carpet
+		cancel event
+		send "&4&l<!> &4Duplication Glitch Attempt Detected!" to player
+		
+on command "/playervaults:pv":
+	loop blocks in radius 2 around the player:
+		loop-block is lily pad or carpet
+		cancel event
+		send "&4&l<!> &4Duplication Glitch Attempt Detected!" to player
+		
+on command "/playervaults:chest":
+	loop blocks in radius 2 around the player:
+		loop-block is lily pad or carpet
+		cancel event
+		send "&4&l<!> &4Duplication Glitch Attempt Detected!" to player
+		
+on command "/playervaults:vault":
+	loop blocks in radius 2 around the player:
+		loop-block is lily pad or carpet
+		cancel event
+		send "&4&l<!> &4Duplication Glitch Attempt Detected!" to player

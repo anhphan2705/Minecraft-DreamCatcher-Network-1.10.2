@@ -1,0 +1,22 @@
+lastAccountName: Pain
+timestamps:
+  login: 1500363134673
+  kits:
+    pariah: 1500363159577
+  lastteleport: 1500363188270
+  logout: 1500363459684
+ipAddress: 123.20.45.239
+lastlocation:
+  world: spawn
+  x: 10.5257496120087
+  y: 97.0
+  z: -2.500460275490073
+  yaw: -95.84339
+  pitch: 25.35001
+logoutlocation:
+  world: spawn
+  x: 21.56801029595909
+  y: 102.0
+  z: 16.588408935416304
+  yaw: -305.84607
+  pitch: 14.699957

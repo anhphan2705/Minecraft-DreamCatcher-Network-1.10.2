@@ -1,0 +1,150 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&6Shop'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: ''
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ' tell: &eBạn đã mở Shop.'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+redstone:
+  COMMAND: 'open: redstone.yml'
+  NAME: '&cShop đá đỏ'
+  LORE:
+    - 'Click vào để mở Shop đá đỏ'
+    - 'Bạn có thể mua đồ'
+    - 'liên quan tới redstone'
+  ID: 331
+  POSITION-X: 1
+  POSITION-Y: 2
+
+blocks:
+  COMMAND: 'open: blocks.yml'
+  NAME: '&aShop khối'
+  LORE:
+    - 'Click vào để mở Shop khối'
+    - 'Bạn có thể mua các khối'
+    - 'tại đây'
+  ID: 2
+  POSITION-X: 1
+  POSITION-Y: 1
+
+decorations:
+  COMMAND: 'open: decorations.yml'
+  NAME: '&eShop Trang Trí'
+  LORE:
+    - 'Click vào để đến shop trang trí'
+    - 'Nơi bạn mua được những khối'
+    - 'và vật phẩm để trang trí'
+  ID: 91
+  POSITION-X: 3
+  POSITION-Y: 1
+
+drops:
+  COMMAND: 'open: drops.yml'
+  NAME: '&bShop quái'
+  LORE: 
+    - 'Click vào để mở shop quái'
+    - 'Nơi bạn mua được các vật phẩm'
+    - 'quái làm rơi khi bạn giết nó'
+  ID: 377
+  POSITION-X: 3
+  POSITION-Y: 2
+
+food:
+  COMMAND: 'open: food.yml'
+  NAME: '&6Shop đồ ăn'
+  LORE:
+    - 'Click vào để mở shop đồ ăn'
+    - 'Nơi bạn có thể mua đồ ăn'
+  ID: cookie
+  POSITION-X: 5
+  POSITION-Y: 1
+
+farmer:
+  COMMAND: 'open: farmer.yml'
+  NAME: '&eShop trồng trọt'
+  LORE:
+    - 'Click để mở shop trồng trọt'
+    - 'Nơi mua các vật phẩm nhà nông'
+  ID: 296
+  POSITION-X: 7
+  POSITION-Y: 1
+
+ore:
+  COMMAND: 'open: ore.yml'
+  NAME: '&aShop quặng'
+  LORE:
+    - 'Click để mở shop quặng'
+    - 'Nơi mua các loại quặng'
+  ID: emerald
+  POSITION-X: 9
+  POSITION-Y: 1
+
+posion:
+  COMMAND: 'open: posion.yml'
+  NAME: '&bShop thuốc'
+  LORE:
+    - 'Click để mở shop thuốc'
+    - 'Nơi mua các loại thuốc'
+  ID: 438
+  POSITION-X: 7
+  POSITION-Y: 2
+
+spawner:
+  COMMAND: 'open: spawner.yml'
+  NAME: '&fShop spawner'
+  LORE:
+    - 'Click để mở shop spawner'
+    - 'Nơi mua các loại spawner'
+  ID: 52
+  POSITION-X: 5
+  POSITION-Y: 2
+
+other:
+  COMMAND: 'open: other.yml'
+  NAME: '&dTạp hoá'
+  LORE: 
+    - 'Click để mở tạp hoá'
+    - 'Nơi mua các vật dụng khác'
+  ID: 389
+  POSITION-X: 9
+  POSITION-Y: 2
+
+menu:
+  COMMAND: 'open: menu.yml'
+  NAME: '&cBack to Server Menu'
+  LORE:
+    - 'Click để quay về menu của server'
+  ID: barrier
+  POSITION-X: 5
+  POSITION-Y: 4
+
+  
+
+

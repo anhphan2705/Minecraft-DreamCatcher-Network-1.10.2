@@ -1,0 +1,5 @@
+vault1:
+  '1': '{"==":"org.bukkit.inventory.ItemStack","damage":39,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"PROTECTION_ENVIRONMENTAL":1},"lore":["§7Pariah
+    §fKit Item"],"display-name":"§7Pariah §fBoots"},"type":"DIAMOND_BOOTS"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","damage":36,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"PROTECTION_ENVIRONMENTAL":1},"lore":["§7Pariah
+    §fKit Item"],"display-name":"§7Pariah §fLeggings"},"type":"DIAMOND_LEGGINGS"}'

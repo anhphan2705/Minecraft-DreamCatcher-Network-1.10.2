@@ -1,0 +1,22 @@
+lastAccountName: theodore120
+timestamps:
+  login: 1500564223963
+  logout: 1500565139861
+  lastteleport: 1499679647303
+ipAddress: 42.115.136.24
+lastlocation:
+  world: spawn
+  x: 13.551888594253969
+  y: -148.80488793673163
+  z: 11.73321856165396
+  yaw: 14.757753
+  pitch: -90.0
+logoutlocation:
+  world: spawn
+  x: 14.339208263374834
+  y: 105.91385938551223
+  z: -7.010281665867481
+  yaw: 254.51007
+  pitch: 35.51036
+money: '0.0'
+afk: false

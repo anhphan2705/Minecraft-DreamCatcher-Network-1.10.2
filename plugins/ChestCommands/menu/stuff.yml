@@ -1,0 +1,344 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&6Shop &ePremium'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: ''
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ' tell: &eBạn đã mở Shop Premium.'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################.
+money1:
+  COMMAND: 'console: eco give {player} 20000'
+  POINTS: 10
+  NAME: '&2Đổi tiền'
+  LORE:
+    - '&fTrị giá: &e10 Points'
+    - '&fBạn sẽ có thêm &220000$ &fsau khi đổi'
+  ID: paper
+  POSITION-X: 1
+  POSITION-Y: 1
+
+money2:
+  COMMAND: 'console: eco give {player} 45000'
+  POINTS: 20
+  NAME: '&2Đổi tiền'
+  LORE:
+    - '&fTrị giá: &e20 Points'
+    - '&fBạn sẽ có thêm &245000$ &fsau khi đổi'
+  ID: paper
+  POSITION-X: 2
+  POSITION-Y: 1
+
+money3:
+  COMMAND: 'console: eco give {player} 120000'
+  POINTS: 50
+  NAME: '&2Đổi tiền'
+  LORE:
+    - '&fTrị giá: &e50 Points'
+    - '&fBạn sẽ có thêm &2120000$ &fsau khi đổi'
+  ID: paper
+  POSITION-X: 4
+  POSITION-Y: 1
+
+money4:
+  COMMAND: 'console: eco give {player} 245000'
+  POINTS: 100
+  NAME: '&2Đổi tiền'
+  LORE:
+    - '&fTrị giá: &e100 Points'
+    - '&fBạn sẽ có thêm &2245000$ &fsau khi đổi'
+  ID: paper
+  POSITION-X: 6
+  POSITION-Y: 1
+
+money5:
+  COMMAND: 'console: eco give {player} 500000'
+  POINTS: 200
+  NAME: '&2Đổi tiền'
+  LORE:
+    - '&fTrị giá: &e200 Points'
+    - '&fBạn sẽ có thêm &2500000$ &fsau khi đổi'
+  ID: paper
+  POSITION-X: 8
+  POSITION-Y: 1
+
+money6:
+  COMMAND: 'console: eco give {player} 1200000'
+  POINTS: 500
+  NAME: '&2Đổi tiền'
+  LORE:
+    - '&fTrị giá: &e500 Points'
+    - '&fBạn sẽ có thêm &21200000$ &fsau khi đổi'
+  ID: paper
+  POSITION-X: 9
+  POSITION-Y: 1
+
+crystal1:
+  COMMAND: 'console: ce crystal 1 {player}'
+  POINTS: 10
+  NAME: '&3Ngọc bảo vệ'
+  LORE:
+    - '&fTrị giá: &e10 Points'
+    - '&fClick vào để mua 1 &3Ngọc bảo vệ'
+    - 'Khi được ép vào vật phẩm'
+    - 'Ngọc sẽ bảo vệ vật phẩm tránh mất sau khi chết 1 lần'
+  ID: emerald
+  ENCHANTMENT: durability, 10
+  POSITION-X: 2
+  POSITION-Y: 2
+
+crystal2:
+  COMMAND: 'console: ce crystal 5 {player}'
+  POINTS: 40
+  NAME: '&3Ngọc bảo vệ'
+  LORE:
+    - '&fTrị giá: &e40 Points'
+    - '&fClick vào để mua 5 &3Ngọc bảo vệ'
+    - 'Khi được ép vào vật phẩm'
+    - 'Ngọc sẽ bảo vệ vật phẩm tránh mất sau khi chết 1 lần'
+  ID: emerald
+  ENCHANTMENT: durability, 10
+  POSITION-X: 3
+  POSITION-Y: 2
+
+crystal3:
+  COMMAND: 'console: ce crystal 10 {player}'
+  POINTS: 90
+  NAME: '&3Ngọc bảo vệ'
+  LORE:
+    - '&fTrị giá: &e90 Points'
+    - '&fClick vào để mua 10 &3Ngọc bảo vệ'
+    - 'Khi được ép vào vật phẩm'
+    - 'Ngọc sẽ bảo vệ vật phẩm tránh mất sau khi chết 1 lần'
+  ID: emerald
+  ENCHANTMENT: durability, 10
+  POSITION-X: 5
+  POSITION-Y: 2
+
+crystal4:
+  COMMAND: 'console: ce crystal 20 {player}'
+  POINTS: 170
+  NAME: '&3Ngọc bảo vệ'
+  LORE:
+    - '&fTrị giá: &e170 Points'
+    - '&fClick vào để mua 20 &3Ngọc bảo vệ'
+    - 'Khi được ép vào vật phẩm'
+    - 'Ngọc sẽ bảo vệ vật phẩm tránh mất sau khi chết 1 lần'
+  ID: emerald
+  ENCHANTMENT: durability, 10
+  POSITION-X: 7
+  POSITION-Y: 2
+
+crystal6:
+  COMMAND: 'console: ce crystal 50 {player}'
+  POINTS: 450
+  NAME: '&3Ngọc bảo vệ'
+  LORE:
+    - '&fTrị giá: &e450 Points'
+    - '&fClick vào để mua 50 &3Ngọc bảo vệ'
+    - 'Khi được ép vào vật phẩm'
+    - 'Ngọc sẽ bảo vệ vật phẩm tránh mất sau khi chết 1 lần'
+  ID: emerald
+  ENCHANTMENT: durability, 10
+  POSITION-X: 8
+  POSITION-Y: 2
+
+egg1:
+  COMMAND: 'console: give {player} creeperegg 1'
+  POINTS: 5
+  NAME: '&2Trứng Creeper'
+  LORE:
+    - '&fTrị giá: &e5 Points'
+    - '&fClick vào để mua 1 &2Trứng Creeper'
+  ID: 0383:50
+  POSITION-X: 2
+  POSITION-Y: 3
+
+egg2:
+  COMMAND: 'console: give {player} creeperegg 4'
+  POINTS: 15
+  NAME: '&2Trứng Creeper'
+  LORE:
+    - '&fTrị giá: &e15 Points'
+    - '&fClick vào để mua 4 &2Trứng Creeper'
+  ID: 0383:50
+  POSITION-X: 3
+  POSITION-Y: 3
+
+egg3:
+  COMMAND: 'console: give {player} creeperegg 10'
+  POINTS: 45
+  NAME: '&2Trứng Creeper'
+  LORE:
+    - '&fTrị giá: &e45 Points'
+    - '&fClick vào để mua 10 &2Trứng Creeper'
+  ID: 0383:50
+  POSITION-X: 4
+  POSITION-Y: 3
+
+egg4:
+  COMMAND: 'console: give {player} creeperegg 20'
+  POINTS: 85
+  NAME: '&2Trứng Creeper'
+  LORE:
+    - '&fTrị giá: &e85 Points'
+    - '&fClick vào để mua 20 &2Trứng Creeper'
+  ID: 0383:50
+  POSITION-X: 5
+  POSITION-Y: 3
+
+egg5:
+  COMMAND: 'console: give {player} creeperegg 30'
+  POINTS: 135
+  NAME: '&2Trứng Creeper'
+  LORE:
+    - '&fTrị giá: &e135 Points'
+    - '&fClick vào để mua 30 &2Trứng Creeper'
+  ID: 0383:50
+  POSITION-X: 6
+  POSITION-Y: 3
+
+egg6:
+  COMMAND: 'console: give {player} creeperegg 40'
+  POINTS: 175
+  NAME: '&2Trứng Creeper'
+  LORE:
+    - '&fTrị giá: &e175 Points'
+    - '&fClick vào để mua 40 &2Trứng Creeper'
+  ID: 0383:50
+  POSITION-X: 7
+  POSITION-Y: 3
+
+egg7:
+  COMMAND: 'console: give {player} creeperegg 50'
+  POINTS: 225
+  NAME: '&2Trứng Creeper'
+  LORE:
+    - '&fTrị giá: &e225 Points'
+    - '&fClick vào để mua 50 &2Trứng Creeper'
+  ID: 0383:50
+  POSITION-X: 8
+  POSITION-Y: 3
+
+spawner1:
+  COMMAND: 'console: give {player} 52:61 1'
+  POINTS: 15
+  NAME: '&fLồng &6Blaze'
+  LORE:
+    - '&fTrị giá: &e15 Points'
+    - '&fClick vào để mua 1 &fLồng &6Blaze'
+  ID: 0052:61
+  POSITION-X: 1
+  POSITION-Y: 4
+
+spawner2:
+  COMMAND: 'console: give {player} 52:50 1'
+  POINTS: 75
+  NAME: '&fLồng &2Creeper'
+  LORE:
+    - '&fTrị giá: &e75 Points'
+    - '&fClick vào để mua 1 &fLồng &2Creeper'
+  ID: 0052:50
+  POSITION-X: 2
+  POSITION-Y: 4
+
+spawner3:
+  COMMAND: 'console: give {player} 52:58 1'
+  POINTS: 50
+  NAME: '&fLồng &8Enderman'
+  LORE:
+    - '&fTrị giá: &e50 Points'
+    - '&fClick vào để mua 1 &fLồng &8Enderman'
+  ID: 0052:58
+  POSITION-X: 3
+  POSITION-Y: 4
+
+spawner4:
+  COMMAND: 'console: give {player} 52:62 1'
+  POINTS: 20
+  NAME: '&fLồng &cMagma'
+  LORE:
+    - '&fTrị giá: &e20 Points'
+    - '&fClick vào để mua 1 &fLồng &cMagma'
+  ID: 0052:62
+  POSITION-X: 4
+  POSITION-Y: 4
+
+spawner5:
+  COMMAND: 'console: give {player} 52:60 1'
+  POINTS: 10
+  NAME: '&fLồng &7Silverfish'
+  LORE:
+    - '&fTrị giá: &e10 Points'
+    - '&fClick vào để mua 1 &fLồng &7Silverfish'
+  ID: 0052:60
+  POSITION-X: 5
+  POSITION-Y: 4
+
+spawner6:
+  COMMAND: 'console: give {player} 52:55 1'
+  POINTS: 40
+  NAME: '&fLồng &aSlime'
+  LORE:
+    - '&fTrị giá: &e40 Points'
+    - '&fClick vào để mua 1 &fLồng &aSlime'
+  ID: 0052:55
+  POSITION-X: 6
+  POSITION-Y: 4
+
+spawner7:
+  COMMAND: 'console: give {player} 52:66 1'
+  POINTS: 50
+  NAME: '&fLồng &5Witch'
+  LORE:
+    - '&fTrị giá: &e50 Points'
+    - '&fClick vào để mua 1 &fLồng &5Witch'
+  ID: 0052:66
+  POSITION-X: 7
+  POSITION-Y: 4
+
+spawner8:
+  COMMAND: 'console: give {player} 52:91 1'
+  POINTS: 30
+  NAME: '&fLồng Sheep'
+  LORE:
+    - '&fTrị giá: &e30 Points'
+    - '&fClick vào để mua 1 &fLồng Sheep'
+  ID: 0052:91
+  POSITION-X: 8
+  POSITION-Y: 4
+
+spawner9:
+  COMMAND: 'console: give {player} 52:99 1'
+  POINTS: 125
+  NAME: '&fLồng &7IronGolem'
+  LORE:
+    - '&fTrị giá: &e130 Points'
+    - '&fClick vào để mua 1 &fLồng &7IronGolem'
+  ID: 0052:99
+  POSITION-X: 9
+  POSITION-Y: 4

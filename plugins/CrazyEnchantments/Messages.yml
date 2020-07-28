@@ -1,0 +1,184 @@
+Messages:
+  Config-Reload: '&7Bạn vừa khởi động lại file &cConfig.yml'
+  Not-An-Enchantment: '&cĐó không phải là một loại phù phép'
+  Right-Click-Black-Scroll: '&7Khảo cổ Xanh sẽ nhẫu nhiên xóa sách từ vật phẩm của bạn.'
+  Black-Scroll-Unsuccessful: '&cThe black scroll was unsuccessful. Please try again with another one.'
+  Need-More-XP-Lvls: '&cBạn cần thêm &6%XP% &cCấp Độ.'
+  Need-More-Total-XP: '&cBạn cần thêm &6%XP% &cCấp Độ.'
+  Need-More-Money: '&cBạn cần số tiền là &a$%Money_Needed%&c.'
+  Hit-Enchantment-Max: '&cĐã vượt quá giới hạn phù phép của trang bị.'
+  Inventory-Full: '&cTúi đồ bạn đã đầy.'
+  Tinker-Inventory-Full: '&cTúi đồ bạn đã đầy.'
+  Tinker-Sold-Msg: '&7Cảm ơn bạn đã trao đổi tại &7&lThe &4&lCrazy &c&lTinkerer&7.'
+  Players-Only: '&cOnly players can use this command.'
+  No-Perm: '&cBạn không được phép xài lệnh này!'
+  Not-Online: '&cNgười chơi đó hiện tại không online.'
+  Remove-Enchantment: '&7Bạn vừa gỡ sách &a%Enchantment% &7trong món đồ này.'
+  Doesnt-Have-Enchantment: '&cVật phẩm của bạn không chứa sách &6%Enchantment%&.'
+  Doesnt-Have-Item-In-Hand: '&cBạn không có vật phẩm trong tay.'
+  Not-A-Number: '&c%Arg% không phải là một con số !'
+  Get-Success-Dust: '&7You have gained &a%Amount% &7Success Dust.'
+  Give-Success-Dust: '&7You have given &a%Amount% &7Success Dust to &6%Player%&7.'
+  Get-Destroy-Dust: '&7You have gained &a%Amount% &7Destroy Dust.'
+  Give-Destroy-Dust: '&7You have given &a%Amount% &7Destroy Dust to &6%Player%&7.'
+  Get-Mystery-Dust: '&7You have gained &a%Amount% &7Mystery Dust.'
+  Give-Mystery-Dust: '&7You have given &a%Amount% &7Mystery Dust to &6%Player%&7.'
+  Not-A-Category: '&6%Category% &cis not a category.'
+  Clean-Lost-Book: '&7Bạn vừa lau chùi cuốn sách và nhận được sách %Found%&7.'
+  Book-Works: '&aPhù phép trang bị thành công !'
+  Book-Failed: '&cPhù phép trang bị thất bại !'
+  Item-Destroyed: '&cTrang bị của bị đã bị phá huỷ :('
+  Item-Was-Protected: '&cNhờ khảo cổ trắng, vật phẩm của bạn không bị phá huỷ do sách ma thuật.'
+  Give-Protection-Crystal: '&7Bạn vừa đưa %Player% %Amount% Ngọc bảo vệ.'
+  Get-Protection-Crystal: '&7Bạn vừa nhận %Amount% Ngọc bảo vệ.'
+  Give-Scrambler-Crystal: '&7Bạn vừa đưa %Player% %Amount% &eBánh xe vàng.'
+  Get-Scrambler-Crystal: '&7Bạn vừa nhận %Amount% &eBánh xe vàng.'
+  Break-Enchantment-Shop-Sign: '&cYou have just removed a Crazy Enchantment Shop Sign.'
+  Send-Enchantment-Book: '&7You have sent &6%Player% &7an Crazy Enchantment Book.'
+  Not-A-GKit: '&c%Kit% không phải là GKit.'
+  Still-In-Cooldown: '&cYou still have %Day%d %Hour%h %Minute%m %Second%s cooldown left on %Kit%&c.'
+  Given-GKit: '&7You have just given &6%Player%&7 a %Kit%&7 GKit.'
+  Received-GKit: '&7You have just received a %Kit%&7 GKit.'
+  No-GKit-Permission: '&cYou do not have permission to use the %Kit% GKit.'
+  Spawned-Book: '&7You have just spawned a book at &6%World%, %X%, %Y%, %Z%&7.'
+  Reset-GKit: '&7You have just reset %Player%''s %GKit% GKit cooldown.'
+  Enchantment-Upgrade:
+    Success: '&7Bạn vừa nâng cấp &6%Enchantment%&7 lên cấp độ &6%Level%&7.'
+    Destroyed: '&cYour upgrade failed and the lower level enchantment was lost.'
+    Failed: '&cThe book failed to upgrade to the item.'
+  Rage:
+    Building: '&aHiệu ứng Rage đang tăng dần.'
+    Cooled-Down: '&cHiệu ứng Rage đã nguội đi.'
+    Rage-Up: '&3Bạn nhận được &a%Level%x &3sát thương.'
+  InfoGUI:
+    Inventory:
+      Size: 18
+      Name: '&c&lEnchantment Info'
+    Categories-Info:
+      Back:
+        Right: '&7<<&bBack'
+        Left: '&bBack&7>>'
+      Helmets:
+        Item: 314
+        Slot: 1
+        Name: '&e&lPhù phép cho Mũ'
+        Lore:
+          - '&cEnchantable Items:'
+          - '&a- Leather Helmet'
+          - '&a- Chain Helmet'
+          - '&a- Gold Helmet'
+          - '&a- Iron Helmet'
+          - '&a- Diamond Helmet'
+      Boots:
+        Item: 317
+        Slot: 2
+        Name: '&e&lPhù phép cho Ủng'
+        Lore:
+          - '&cTrang bị cần thiết:'
+          - '&a- Ủng da'
+          - '&a- Ủng xích'
+          - '&a- Ủng vàng'
+          - '&a- Ủng sắt'
+          - '&a- Ủng kim cương'
+      Armor:
+        Item: 315
+        Slot: 3
+        Name: '&e&lPhù phép cho Tất cả các loại giáp'
+        Lore:
+          - '&cTrang bị cần thiết:'
+          - '&a- Tất cả các loại giáp da'
+          - '&a- Tất cả các loại giáp xích'
+          - '&a- Tất cả các loại giáp vàng'
+          - '&a- Tất cả các loại giáp sắt'
+          - '&a- Tất cả các loại giáp kim cương'
+      Bow:
+        Item: 261
+        Slot: 4
+        Name: '&e&lPhù phép cho Cung'
+        Lore:
+          - '&cTrang bị cần thiết:'
+          - '&a- Cung'
+      Sword:
+        Item: 283
+        Slot: 5
+        Name: '&e&lPhù phép cho Kiếm'
+        Lore:
+          - '&cTrang bị cần thiết:'
+          - '&a- Kiếm gỗ'
+          - '&a- Kiếm đá'
+          - '&a- Kiếm vàng'
+          - '&a- Kiếm sắt'
+          - '&a- Kiếm kim cương'
+      Axe:
+        Item: 286
+        Slot: 6
+        Name: '&e&lPhù phép cho Rìu'
+        Lore:
+          - '&cTrang bị cần thiết:'
+          - '&a- Rìu gỗ'
+          - '&a- Rìu đá'
+          - '&a- Rìu vàng'
+          - '&a- Rìu sắt'
+          - '&a- Rìu kim cương'
+      Tool:
+        Item: 294
+        Slot: 7
+        Name: '&e&lPhù phép cho Dụng cụ'
+        Lore:
+          - '&cTrang bị cần thiết:'
+          - '&a- Tất cả các loại Cúp'
+          - '&a- Tất cả các loại Rìu'
+          - '&a- Tất cả các loại Xẻng'
+          - '&a- Tất cả các loại Cuốc'
+      Pickaxe:
+        Item: 285
+        Slot: 8
+        Name: '&e&lPhù phép cho Cúp'
+        Lore:
+          - '&cTrang bị cần thiết:'
+          - '&a- Cúp gỗ'
+          - '&a- Cúp đá'
+          - '&a- Cúp vàng'
+          - '&a- Cúp sắt'
+          - '&a- Cúp kim cương'
+      Misc:
+        Item: 345
+        Slot: 9
+        Name: '&e&lCác loại phù phép khác'
+        Lore:
+          - '&aHãy nhấn vào để tìm hiểu'
+          - '&avà xem trang bị cần thiết.'
+      Other:
+        Item: 381
+        Slot: 14
+        Name: '&e&lThông Tin Khác'
+        Lore:
+          - '&cInfo on these items:'
+          - '&a- Máy Nghiền'
+          - '&a- Khảo Cổ'
+          - '&a- Bột thần kì'
+          - '&a- Thợ rèn'
+    BlackSmith:
+      - '&7Là nơi bạn có thể ép 2 quyển sách cùng loại'
+      - '&7để nâng cấp thành 1 quyển sách cấp độ cao hơn.'
+      - '&7&l(&6&l!&7&l) &7Chỉ hoạt động với sách phù phép ma thuật.'
+    Black-Scroll:
+      - '&7Bạn có thể sử dụng Khảo cổ Xanh để lấy cuốn '
+      - '&7sách mà bạn không ưng ý ra khỏi món đồ.'
+      - '&7Chuột phải vào vật phẩm để gỡ cuốn sách bất kì'
+      - '&7&l(&6&l!&7&l) &7Chỉ tác dụng với phù phép ma thuật.'
+    Scrambler:
+      - '&7&eBánh xe vàng &7cho bạn'
+      - '&7thay đổi tỉ số &athành công và &4phá huỷ.'
+      - '&7Chuột phải nó vào cuốn sách ma thuật.'
+      - '&7để thay đổi và nhận tỉ lệ mới.'
+    Tinker:
+      - '&7Bạn có thể nghiền những &6trang bị phù phép &7hay'
+      - '&7những &6cuốn sách phù phép &7mà bạn không dùng đến'
+      - '&7để chuyển hoá thành &6bình kinh nghiệm &7hay &6bột phù phép.'
+    Success-Dust:
+        - '&7Bột giúp bạn'
+        - '&7tăng tỉ lệ &aThành công&7.'
+    Destroy-Dust:
+        - '&7Bột giúp bạn'
+        - '&7giảm tỉ lệ &cPhá huỷ&7.'

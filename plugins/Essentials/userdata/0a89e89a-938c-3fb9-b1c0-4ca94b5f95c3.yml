@@ -1,0 +1,19 @@
+lastAccountName: vantue
+timestamps:
+  login: 1500877309195
+  logout: 1500877311978
+ipAddress: 113.166.89.240
+lastlocation:
+  world: world
+  x: 287.0
+  y: 89.0
+  z: -384.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: 8.05484507715951
+  y: 97.0
+  z: -2.0858925880740147
+  yaw: 247.40852
+  pitch: 37.84806

@@ -1,0 +1,31 @@
+lastAccountName: GetFOG
+timestamps:
+  login: 1500969403654
+  kits:
+    pariah: 1500969453823
+  lastteleport: 1500969498649
+  logout: 1500969730817
+ipAddress: 113.169.228.10
+lastlocation:
+  world: spawn
+  x: 22.67566726694605
+  y: 99.9375
+  z: -6.920276505903165
+  yaw: 37.35663
+  pitch: 10.5000105
+money: '175.0'
+homes:
+  home:
+    world: world
+    x: -2113.474461326726
+    y: 69.0
+    z: -3242.7119113255008
+    yaw: -179.70001
+    pitch: 59.7
+logoutlocation:
+  world: world
+  x: -2135.9654455671844
+  y: 36.0
+  z: -3266.6465605295693
+  yaw: -100.2001
+  pitch: 14.699999

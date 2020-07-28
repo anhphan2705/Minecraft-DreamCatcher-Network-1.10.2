@@ -1,0 +1,19 @@
+lastAccountName: race
+timestamps:
+  login: 1500124256620
+  logout: 1500124276783
+ipAddress: 1.52.34.112
+lastlocation:
+  world: world
+  x: 287.0
+  y: 89.0
+  z: -384.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: 8.5
+  y: 97.0
+  z: -2.5
+  yaw: -95.2433
+  pitch: -6.4499836

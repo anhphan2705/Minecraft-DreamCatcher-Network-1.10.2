@@ -1,0 +1,19 @@
+lastAccountName: nhan_vo
+timestamps:
+  login: 1500963888603
+  logout: 1500963893508
+ipAddress: 42.112.218.88
+lastlocation:
+  world: world
+  x: 287.0
+  y: 89.0
+  z: -384.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: 8.486545056467648
+  y: 97.0
+  z: -2.7035834278687645
+  yaw: -94.49338
+  pitch: 16.500013

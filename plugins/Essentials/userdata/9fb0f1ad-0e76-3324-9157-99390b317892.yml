@@ -1,0 +1,23 @@
+lastAccountName: chethetdifuck
+timestamps:
+  login: 1500963834623
+  logout: 1500964005496
+  lastteleport: 1500963877534
+  kits:
+    pariah: 1500872069279
+    food: 1500872170020
+ipAddress: 42.112.218.88
+lastlocation:
+  world: PvPArea
+  x: 838.1757673465515
+  y: 21.0
+  z: 363.44230467051005
+  yaw: -340.9503
+  pitch: 25.349958
+logoutlocation:
+  world: spawn
+  x: -4.92147249396157
+  y: 118.0
+  z: 19.30000001192093
+  yaw: 1.0546863
+  pitch: 42.750057

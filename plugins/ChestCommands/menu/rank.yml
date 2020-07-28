@@ -1,0 +1,176 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&dRank &fMenu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'rank'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ' tell: &eBạn đã mở Menu Rank.'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+pariah:
+  COMMAND: 'kit'
+  NAME: '&c&l&fRank &7Pariah'
+  LORE:
+    - '&fKit gồm có:'
+    - '&fGiáp và công cụ của Pariah'
+    - '&fThời gian lấy kit: &61 ngày'
+    - '&fDùng được các lệnh cơ bản và thêm:'
+    - '&f- &7/pv 1'
+    - '&f- &7/sethome &fđược 1 lần'
+    - '&f* Treo đồ trên &7/ah &fđược 3 món'
+  ID: 160
+  POSITION-X: 2
+  POSITION-Y: 1
+
+slave:
+  COMMAND: 'console: pex user {player} group set slave; console: pex user {player} add essential.kits.Slave'
+  POINTS: 50
+  NAME: '&c&l&fRank &aSlave'
+  LORE:
+    - '&fCần &e50&f points để mua rank này'
+    - '&fKit gồm có:'
+    - '&fGiáp và công cụ của Slave'
+    - '&fVà được chuyển khoản &a5000$&f mỗi lần nhận kit'
+    - '&fThời gian lấy kit: &62 ngày'
+    - '&fĐược mọi chức năng của Pariah và thêm:'
+    - '&f- &7/near'
+    - '&f- &7/sethome &f2 lần'
+    - '&f- &7/pv 1-2'
+    - '&f- &7/craft'
+    - '&f- &7/fix'
+    - '&f* Được join khi server full'
+    - '&f* Treo đồ trên &7/ah &fđược 5 món'
+  ID: 0160:5
+  POSITION-X: 3
+  POSITION-Y: 1
+
+citizen:
+  COMMAND: 'console: pex user {player} group set citizen; console: pex user {player} add essential.kits.Citizen'
+  POINTS: 100
+  NAME: '&c&l&fRank &eCitizen'
+  LORE:
+    - '&fCần &e100&f points để mua rank này'
+    - '&fKit gồm có:'
+    - '&fGiáp và công cụ của Citizen'
+    - '&fVà được chuyển khoản &a10000$&f mỗi lần nhận kit'
+    - '&fThời gian lấy kit: &63 ngày'
+    - '&fĐược mọi chức năng của Slave và thêm:'
+    - '&f- &7/sethome &f3 lần'
+    - '&f- &7/pv 1-3'
+    - '&f- &7/ec'
+    - '&f* Treo đồ trên &7/ah &fđược 7 món'
+  ID: 0160:4
+  POSITION-X: 4
+  POSITION-Y: 1
+
+politician:
+  COMMAND: 'console: pex user {player} group set politician; console: pex user {player} add essential.kits.Politician'
+  POINTS: 300
+  NAME: '&c&l&fRank &dPolitician'
+  LORE:
+    - '&fCần &e300&f points để mua rank này'
+    - '&fKit gồm có:'
+    - '&fGiáp và công cụ của Politician'
+    - '&fVà được chuyển khoản &a15000$&f mỗi lần nhận kit'
+    - '&fThời gian lấy kit: &64 ngày'
+    - '&fĐược mọi chức năng của Citizen và thêm:'
+    - '&f- &7/sethome &f4 lần'
+    - '&f- &7/pv 1-5'
+    - '&f- &7/afk'    
+    - '&f- &7/fix all'
+    - '&f- &7/recipe &f(cách chế tạo vật phẩm)'
+    - '&f* Được nhận thêm &610% kinh nghiệm McMMO'
+    - '&f* Không bị kick khi AFK quá 10 phút'
+    - '&f* Treo đồ trên &7/ah &fđược 10 món'
+  ID: 0160:2
+  POSITION-X: 5
+  POSITION-Y: 1
+
+senator:
+  COMMAND: 'console: pex user {player} group set Senator; console: pex user {player} add essential.kits.Senator'
+  POINTS: 500
+  NAME: '&c&l&fRank &3Senator'
+  LORE:
+    - '&fCần &e500&f points để mua rank này'
+    - '&fKit gồm có:'
+    - '&fGiáp và công cụ của Senator'
+    - '&fVà được chuyển khoản &a30000$&f mỗi lần nhận kit'
+    - '&fThời gian lấy kit: &66 ngày'
+    - '&fĐược mọi chức năng của Politician và thêm:'
+    - '&f- &7/sethome &f6 lần'
+    - '&f- &7/pv 1-7'
+    - '&f- &7/firework'
+    - '&f- &7/pweather'
+    - '&f* không cần chờ thời gian để dịch chuyển'
+    - '&f* Được nhận thêm &650% kinh nghiệm &fMcMMO'
+    - '&f* Được giảm &625% &fthời gian hồi kĩ năng McMMO'
+    - '&f* Treo đồ trên &7/ah &fđược 12 món'
+  ID: 0160:11
+  POSITION-X: 6
+  POSITION-Y: 1
+
+governor:
+  COMMAND: 'console: pex user {player} group set governor; console: pex user {player} add essential.kits.Governor'
+  POINTS: 1000
+  NAME: '&c&l&fRank &cGovernor'
+  LORE:
+    - '&fCần &e1000&f points để mua rank này'
+    - '&fKit gồm có:'
+    - '&fGiáp và công cụ của Governor'
+    - '&fVà được chuyển khoản &a50000$&f mỗi lần nhận kit'
+    - '&fThời gian lấy kit: &67 ngày'
+    - '&fĐược mọi chức năng của Senator và thêm:'
+    - '&f- &7/sethome &f10 lần'
+    - '&f- &7/pv 1-10'
+    - '&f- &7/ptime'
+    - '&f- &7/feed'
+    - '&f- &7/heal'
+    - '&f* Được nhận thêm &6100% kinh nghiệm &fMcMMO'
+    - '&f* Được giảm &61/3 &fthời gian hồi kĩ năng McMMO'    
+    - '&f* Treo đồ trên &7/ah &fđược 15 món'
+  ID: 0160:14
+  POSITION-X: 7
+  POSITION-Y: 1
+
+more:
+  NAME: '&cComming soon'
+  LORE:
+    - 'Comming soon'
+  ID: 0160:1
+  POSITION-X: 8
+  POSITION-Y: 1
+
+
+menu-close-no-commands-no-lore:
+  COMMAND: 'open: shoppre.yml'
+  NAME: '&6Quay trở lại Server Menu'
+  ID: barrier
+  LORE:
+    - 'Click để quay lại Server Menu'
+  POSITION-X: 5
+  POSITION-Y: 3

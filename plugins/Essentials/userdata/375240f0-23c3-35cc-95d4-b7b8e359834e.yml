@@ -1,0 +1,25 @@
+lastAccountName: TexWard
+timestamps:
+  login: 1500136260884
+  logout: 1500136421380
+  lastteleport: 1500136079035
+  kits:
+    pariah: 1500134101394
+  mute: 0
+ipAddress: 1.52.33.144
+lastlocation:
+  world: PvPArea
+  x: 831.6999999880791
+  y: 18.0
+  z: 381.11412515677193
+  yaw: 127.048325
+  pitch: 6.5999365
+logoutlocation:
+  world: spawn
+  x: 30.012850439310718
+  y: 103.0
+  z: -35.0400675603386
+  yaw: 82.80652
+  pitch: 35.39999
+money: '0.0'
+muted: false

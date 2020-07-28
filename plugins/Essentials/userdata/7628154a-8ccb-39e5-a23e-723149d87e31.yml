@@ -1,0 +1,35 @@
+lastAccountName: vanthai
+timestamps:
+  login: 1501043353696
+  logout: 1501049006649
+  lastteleport: 1501046266455
+  kits:
+    pariah: 1500878064039
+    food: 1500352964715
+  jail: 0
+ipAddress: 113.166.90.172
+lastlocation:
+  world: world
+  x: 19989.908739284325
+  y: 68.0
+  z: 19995.83172742058
+  yaw: 267.18152
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: 24376.95245076243
+  y: 57.0
+  z: 24506.17951352698
+  yaw: 250.78818
+  pitch: 8.278855
+money: '126.9400000000000745'
+homes:
+  __:
+    world: world
+    x: 19997.470549064787
+    y: 66.0
+    z: 20015.709915068812
+    yaw: 293.23834
+    pitch: 17.709198
+jailed: false
+teleportenabled: true

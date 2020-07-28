@@ -1,0 +1,39 @@
+lastAccountName: evildark
+timestamps:
+  login: 1501027251854
+  logout: 1501027290056
+  lastteleport: 1501004025846
+  kits:
+    slave: 1499182662007
+    op: 1499178697417
+    citizen: 1500025959310
+    pariah: 1500813782317
+  jail: 0
+ipAddress: 118.68.24.97
+logoutlocation:
+  world: spawn
+  x: -39.22553337234593
+  y: 104.0
+  z: 7.1453780385281656
+  yaw: 331.95673
+  pitch: 20.100004
+lastlocation:
+  world: world
+  x: 24378.938385919646
+  y: 57.720977443048426
+  z: 24489.15243011021
+  yaw: 114.13513
+  pitch: 22.94999
+nickname: §4§ljason
+afk: false
+godmode: false
+money: '99999754312.55'
+jailed: false
+homes:
+  home:
+    world: world
+    x: 19988.54457592415
+    y: 80.0
+    z: 19984.76716748332
+    yaw: 16.588787
+    pitch: 43.34999

@@ -1,0 +1,91 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"DIAMOND"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"ENCHANTMENT_TABLE"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"ENCHANTMENT_TABLE"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"ENCHANTMENT_TABLE"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","amount":37,"type":"OBSIDIAN"}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"KNOCKBACK":1,"LOOT_BONUS_MOBS":3,"DAMAGE_ALL":5,"FIRE_ASPECT":2},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fSword"},"type":"DIAMOND_SWORD"}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"SILK_TOUCH":1,"DIG_SPEED":5,"MENDING":1},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fShovel"},"type":"DIAMOND_SPADE"}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","damage":57,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"KNOCKBACK":1,"LOOT_BONUS_MOBS":3,"DAMAGE_ALL":5,"FIRE_ASPECT":2},"lore":["§7Haste
+    III","§cGovernor §fKit Item"],"display-name":"§cGovernor §fAxe"},"type":"DIAMOND_AXE"}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TNT"}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SUGAR_CANE"}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SUGAR_CANE"}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","amount":37,"type":"SUGAR_CANE"}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","amount":52,"type":"DIAMOND_ORE"}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":2,"type":"GOLDEN_APPLE"}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"GOLDEN_APPLE"}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SUGAR_CANE"}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SUGAR_CANE"}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"SUGAR_CANE"}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"SILK_TOUCH":1,"LOOT_BONUS_BLOCKS":3,"DIG_SPEED":5,"MENDING":1},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fPickaxe"},"type":"DIAMOND_PICKAXE"}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","damage":119,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":4,"SILK_TOUCH":1,"DIG_SPEED":4,"MENDING":1},"repair-cost":1},"type":"DIAMOND_PICKAXE"}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"FROST_WALKER":2}},"type":"ENCHANTED_BOOK"}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"LOOT_BONUS_BLOCKS":3}},"type":"ENCHANTED_BOOK"}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"FIRE_ASPECT":2}},"type":"ENCHANTED_BOOK"}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"ARROW_DAMAGE":5}},"type":"ENCHANTED_BOOK"}'
+  '51': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"SILK_TOUCH":1}},"type":"ENCHANTED_BOOK"}'
+vault2:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    sức kháng cự","§3dựa trên cấp độ sách của bạn.","","§6Tìm được trong mục:","§7
+    - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aTất cả các loại giáp","§432% Phá
+    huỷ","§a51% Thành công"],"display-name":"§eValor III"},"type":"ENCHANTED_BOOK"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội hút máu","§3từ kẻ địch mà bạn đánh.","","§6Tìm được trong mục:","§7 - §4Legendary","§6Có
+    thể ép vô: §aKiếm","§483% Phá huỷ","§a0% Thành công"],"display-name":"§eLifeSteal
+    II"},"type":"ENCHANTED_BOOK"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    chạy nhanh hơn","§3khi sử dụng.","","§6Tìm được trong mục:","§7 - §4Legendary","§6Có
+    thể ép vô: §aỦng","§489% Phá huỷ","§a19% Thành công"],"display-name":"§eGears
+    I"},"type":"ENCHANTED_BOOK"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Đặt kẻ
+    địch trong 3 block","§3gây độc trong thời gian ngắn.","","§6Tìm được trong mục:","§7
+    - §eUltimate","§6Có thể ép vô: §aTất cả các loại giáp","§490% Phá huỷ","§a3% Thành
+    công"],"display-name":"§eAcidRain I"},"type":"ENCHANTED_BOOK"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    nhận thêm máu và ","§3chạy nhanh hơn khi sử dụng.","","§6Tìm được trong mục:","§7
+    - §4Legendary","§7 - §eUltimate","§6Có thể ép vô: §aTất cả các loại giáp","§432%
+    Phá huỷ","§a54% Thành công"],"display-name":"§eNinja I"},"type":"ENCHANTED_BOOK"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội làm kẻ dịch bị","§3mù và chậm rãi để bạn trốn thoát.","","§6Tìm được trong
+    mục:","§7 - §aCommon","§7 - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aTất
+    cả các loại giáp","§428% Phá huỷ","§a58% Thành công"],"display-name":"§eSmokeBomb
+    III"},"type":"ENCHANTED_BOOK"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội làm kẻ dịch bị","§3mù và chậm rãi để bạn trốn thoát.","","§6Tìm được trong
+    mục:","§7 - §aCommon","§7 - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aTất
+    cả các loại giáp","§428% Phá huỷ","§a58% Thành công"],"display-name":"§eSmokeBomb
+    III"},"type":"ENCHANTED_BOOK"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    sức chống lửa","§3khi sử dụng.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§7 - §4Legendary","§7 - §eUltimate","§6Có thể ép vô: §aTất cả các loại
+    giáp","§42% Phá huỷ","§a48% Thành công"],"display-name":"§eBurnShield I"},"type":"ENCHANTED_BOOK"}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","amount":12,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§c-2%
+    Phá huỷ","§7Ghép vào một cuốn sách để","§7giảm tỉ lệ phá huỷ trang bị §e2%"],"display-name":"§cBột
+    trừ tà"},"type":"REDSTONE"}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","amount":3,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§c-5%
+    Phá huỷ","§7Ghép vào một cuốn sách để","§7giảm tỉ lệ phá huỷ trang bị §e5%"],"display-name":"§cBột
+    trừ tà"},"type":"REDSTONE"}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","amount":5,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§c-1%
+    Phá huỷ","§7Ghép vào một cuốn sách để","§7giảm tỉ lệ phá huỷ trang bị §e1%"],"display-name":"§cBột
+    trừ tà"},"type":"REDSTONE"}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","amount":3,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§c-3%
+    Phá huỷ","§7Ghép vào một cuốn sách để","§7giảm tỉ lệ phá huỷ trang bị §e3%"],"display-name":"§cBột
+    trừ tà"},"type":"REDSTONE"}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","amount":5,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§c-4%
+    Phá huỷ","§7Ghép vào một cuốn sách để","§7giảm tỉ lệ phá huỷ trang bị §e4%"],"display-name":"§cBột
+    trừ tà"},"type":"REDSTONE"}'

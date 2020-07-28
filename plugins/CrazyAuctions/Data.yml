@@ -1,0 +1,56 @@
+Items:
+  '3':
+    Price: 5000000
+    Seller: MinhNhutVN
+    Time-Till-Expire: 1501208306346
+    Full-Time: 1501899506346
+    StoreID: 129695
+    Biddable: false
+    TopBidder: None
+    Item:
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        display-name: §eSmokeBomb III
+        lore:
+        - §7Cầm quyển sách và bỏ lên vật phẩm.
+        - §7Chuột phải để xem thêm thông tin.
+        - §3Có cơ hội làm kẻ dịch bị
+        - §3mù và chậm rãi để bạn trốn thoát.
+        - ''
+        - '§6Tìm được trong mục:'
+        - §7 - §aCommon
+        - §7 - §9Rare
+        - §7 - §4Legendary
+        - '§6Có thể ép vô: §aTất cả các loại giáp'
+        - §423% Phá huỷ
+        - §a17% Thành công
+  '1':
+    Price: 5000000
+    Seller: MinhNhutVN
+    Time-Till-Expire: 1501208374952
+    Full-Time: 1501899574952
+    StoreID: 518597
+    Biddable: false
+    TopBidder: None
+    Item:
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        display-name: §eDoubleDamage III
+        lore:
+        - §7Cầm quyển sách và bỏ lên vật phẩm.
+        - §7Chuột phải để xem thêm thông tin.
+        - §3Có cơ hội để gây
+        - §3gấp đôi sát thương.
+        - ''
+        - '§6Tìm được trong mục:'
+        - §7 - §4Legendary
+        - '§6Có thể ép vô: §aKiếm'
+        - §441% Phá huỷ
+        - §a46% Thành công
+OutOfTime/Cancelled: {}

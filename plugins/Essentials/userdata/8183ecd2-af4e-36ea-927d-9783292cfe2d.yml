@@ -1,0 +1,22 @@
+lastAccountName: TranHung
+timestamps:
+  login: 1500040219892
+  logout: 1500040345511
+  mute: 0
+  lastteleport: 1500040275419
+ipAddress: 115.79.10.13
+lastlocation:
+  world: PvPArea
+  x: 829.9011972444147
+  y: 21.0
+  z: 353.8021754880076
+  yaw: -341.69998
+  pitch: -3.6000338
+logoutlocation:
+  world: spawn
+  x: 19.18695041605439
+  y: 100.5
+  z: -4.8905586373385255
+  yaw: -71.84328
+  pitch: 24.150019
+muted: false

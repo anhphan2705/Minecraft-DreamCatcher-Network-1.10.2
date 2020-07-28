@@ -1,0 +1,3260 @@
+'1':
+  uniqueId: 62194863-f7a9-47bf-8879-eacb8d2e1186
+  name: ''
+  world: Survival
+  x: -920
+  y: 68
+  z: 334
+  type: admin
+  object: villager
+  uuid: 4f22a069-eb68-4cfa-ab92-912d58e880eb
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 14
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fCool-Cat §7Armor
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 2
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 20
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fCool-Cat §7Armor
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 16
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fCool-Cat §7Armor
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fCool-Cat §7Armor
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 18
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fCool-Cat §7Sword
+          enchants:
+            DAMAGE_ALL: 1
+            DURABILITY: 2
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 12
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fCool-Cat §7Pickaxe
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+'2':
+  uniqueId: a0826fcc-cdf5-4a9d-b755-a4a5c192170b
+  name: '&f&lSet Minor &b&lI'
+  world: spawn
+  x: -46
+  y: 104
+  z: 8
+  type: admin
+  object: villager
+  uuid: 204d66dc-46dd-4d8a-ac6a-f1c6e8d594e0
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Pickaxe §bI
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Sword §bI
+          enchants:
+            DAMAGE_ALL: 1
+            DURABILITY: 1
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Axe §bI
+          enchants:
+            DAMAGE_ALL: 1
+            DURABILITY: 1
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Bow §bI
+          enchants:
+            DURABILITY: 1
+            ARROW_DAMAGE: 1
+'3':
+  uniqueId: 42b91a24-0578-4967-b131-fd2ff6c7bcbf
+  name: '&f&lSet Minor &b&lIII'
+  world: spawn
+  x: -46
+  y: 104
+  z: 4
+  type: admin
+  object: villager
+  uuid: cde6c955-a670-4cdf-9f00-11908927a1be
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Pickaxe §bII
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Pickaxe §bIII
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Sword §bII
+          enchants:
+            DAMAGE_ALL: 2
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Sword §bIII
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Axe §bII
+          enchants:
+            DAMAGE_ALL: 2
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Axe §bIII
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Bow §bII
+          enchants:
+            DURABILITY: 2
+            ARROW_DAMAGE: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Bow §bIII
+          enchants:
+            DURABILITY: 2
+            ARROW_DAMAGE: 3
+'4':
+  uniqueId: eeff8716-ebdc-44f3-a1d9-e6aaac061376
+  name: '&d&lHeo NomNom'
+  world: spawn
+  x: -35
+  y: 104
+  z: 8
+  type: admin
+  object: pig
+  uuid: 459c2844-478b-4e66-a0f8-463d14b55536
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+        amount: 8
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: RAILS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: RAILS
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+        amount: 8
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: ROTTEN_FLESH
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: ROTTEN_FLESH
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRILLED_PORK
+        amount: 8
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPIDER_EYE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPIDER_EYE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRILLED_PORK
+        amount: 8
+'5':
+  uniqueId: 09f1b245-38e5-4786-ac40-e2aac35e3740
+  name: '&5&lSet Ma Ám'
+  world: spawn
+  x: -37
+  y: 108
+  z: 6
+  type: admin
+  object: witch
+  uuid: 984b4c32-c128-4408-98a2-454a1d4d3350
+  recipes: {}
+'6':
+  uniqueId: 54576253-1548-4914-9538-80abbcf881fb
+  name: '&f&lSet Minor &b&lII'
+  world: spawn
+  x: -46
+  y: 104
+  z: 6
+  type: admin
+  object: villager
+  uuid: ee275939-7d61-4f43-89fe-c612f4a2d342
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Pickaxe §bI
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Pickaxe §bII
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 2
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Sword §bI
+          enchants:
+            DAMAGE_ALL: 1
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Sword §bII
+          enchants:
+            DAMAGE_ALL: 2
+            DURABILITY: 2
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Axe §bI
+          enchants:
+            DAMAGE_ALL: 1
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Axe §bII
+          enchants:
+            DAMAGE_ALL: 2
+            DURABILITY: 2
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Bow §bI
+          enchants:
+            DURABILITY: 1
+            ARROW_DAMAGE: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Bow §bII
+          enchants:
+            DURABILITY: 2
+            ARROW_DAMAGE: 2
+'7':
+  uniqueId: 772543d4-43b1-47cb-8df0-8734393e9f12
+  name: '&f&lSet &a&lMajor &b&lI'
+  world: spawn
+  x: -47
+  y: 109
+  z: 8
+  type: admin
+  object: villager
+  uuid: 889a7ab5-6aaf-49ff-b73e-665d96c6673e
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Armor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Pickaxe §bIII
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fPickaxe §bI
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 2
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Sword §bIII
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fSword §bI
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Axe §bIII
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fAxe §bI
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMinor §7Bow §bIII
+          enchants:
+            DURABILITY: 2
+            ARROW_DAMAGE: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fBow §bI
+          enchants:
+            DURABILITY: 2
+            ARROW_DAMAGE: 4
+'8':
+  uniqueId: 6adb6cc3-b0d2-4569-9e5e-f0d66a7e1d58
+  name: '&f&lSet &a&lMajor &b&lII'
+  world: spawn
+  x: -47
+  y: 109
+  z: 6
+  type: admin
+  object: villager
+  uuid: bfc84b32-9a6b-4164-9731-e3c85e9a9839
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 2
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bI
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fPickaxe §bI
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fPickaxe §bII
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 2
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fSword §bI
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fSword §bII
+          enchants:
+            DAMAGE_ALL: 4
+            DURABILITY: 2
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fAxe §bI
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fAxe §bII
+          enchants:
+            DAMAGE_ALL: 4
+            DURABILITY: 2
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fBow §bI
+          enchants:
+            DURABILITY: 2
+            ARROW_DAMAGE: 4
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fBow §bII
+          enchants:
+            DURABILITY: 2
+            ARROW_DAMAGE: 4
+            ARROW_FIRE: 1
+'9':
+  uniqueId: b6c46d48-563b-4f70-ad72-5c07e0025346
+  name: '&f&lSet &a&lMajor &b&lIII'
+  world: spawn
+  x: -47
+  y: 109
+  z: 4
+  type: admin
+  object: villager
+  uuid: 1547bdde-31c2-42cb-a172-b34e074e7eff
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            WATER_WORKER: 1
+            DURABILITY: 3
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 24
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            THORNS: 1
+            DURABILITY: 3
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 24
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 1
+            DURABILITY: 3
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fArmor §bIII
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 1
+            DURABILITY: 3
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fPickaxe §bII
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fPickaxe §bIII
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 2
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fSword §bII
+          enchants:
+            DAMAGE_ALL: 4
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 24
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fSword §bIII
+          enchants:
+            DAMAGE_ALL: 5
+            DURABILITY: 3
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fAxe §bII
+          enchants:
+            DAMAGE_ALL: 4
+            DURABILITY: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 24
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fAxe §bIII
+          enchants:
+            DAMAGE_ALL: 5
+            DURABILITY: 3
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fBow §bII
+          enchants:
+            DURABILITY: 2
+            ARROW_DAMAGE: 4
+            ARROW_FIRE: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aMajor §fBow §bIII
+          enchants:
+            DURABILITY: 3
+            ARROW_DAMAGE: 5
+            ARROW_FIRE: 1
+            ARROW_INFINITE: 1
+'10':
+  uniqueId: a705a160-632c-4db4-a5b2-beb54fd0132c
+  name: '&e&lBookSeller'
+  world: spawn
+  x: -38
+  y: 108
+  z: 12
+  type: admin
+  object: villager
+  uuid: 70accd7f-7a9a-4351-856e-769dc1b94b94
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $100,000
+          - §cThuộc ngân hàng §eDreamCatcher
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            SILK_TOUCH: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $500,000
+          - §cThuộc ngân hàng §eDreamCatcher
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            WATER_WORKER: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $1,000,000
+          - §cThuộc ngân hàng §eDreamCatcher
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            FROST_WALKER: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $1,000,000
+          - §cThuộc ngân hàng §eDreamCatcher
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $1,000,000
+          - §cThuộc ngân hàng §eDreamCatcher
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MENDING: 1
+'11':
+  uniqueId: 257a34fa-4c50-447e-b489-3fc14d4a560f
+  name: '&d&lAnimal &f&lSpawner'
+  world: spawn
+  x: -34
+  y: 100
+  z: 33
+  type: admin
+  object: villager
+  uuid: ab595682-d9b3-4008-81b7-997d61cd81e2
+  prof: BLACKSMITH
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §ePig §fSpawner
+          internal: H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA
+          blockMaterial: MOB_SPAWNER
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eChicken §fSpawner
+          internal: H4sIAAAAAAAAAH2NwQqCUBBFbwbmG6L+qWzRLjBo5WKwQYf3eEYORH+vvqCFC9fn3HsIIBxOoW/8JZra984twVUv/sSSjQtk+sTu3GnjJcLhmNCtN5l0DgMB2BDy33qhb5E/RNvOZmkuuX9kYa40CftKg09Y3kOGQtLJtUQNjN+9EUfBAAAA
+          blockMaterial: MOB_SPAWNER
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eCow §fSpawner
+          internal: H4sIAAAAAAAAAHWNwQqCQBRFTwriPKL+qWzRTjBo02aowQYHR/KB+PflBOGm7b3n3Csg7A4h3rtTr17ni20F0wx26iurtiTzD/JjnDDsU1xHdR/UhlGAjVB8zRWaU1ydb5+6AMuD+Y2vqD8/wrbxoUuVe40ZpUvyueIGbz41RXqxAAAA
+          blockMaterial: MOB_SPAWNER
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eOcelot §fSpawner
+          internal: H4sIAAAAAAAAAHWNwQqCQBRFbwaD84j8p7BFqwSD1k972ODghD4Q+3p1gsCF63PuPQQQzhcf6vbaqdPpwQ3Blh8eu5yVUyTuBXP/ig8KiyySIqgsNvuBABwI5jfe2keYp7jmrauzduw/sRX3g4RT6XwbqfRDglTixS1HBcyE2oylvQAAAA==
+          blockMaterial: MOB_SPAWNER
+'12':
+  uniqueId: cf5b318a-a679-44d5-839c-e0008bb07488
+  name: '&e&lMob &f&lSpawner'
+  world: spawn
+  x: -34
+  y: 100
+  z: 37
+  type: admin
+  object: villager
+  uuid: 4419c338-67f1-4b7d-939a-00d8acc5cc37
+  prof: BLACKSMITH
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eBlaze §fSpawner
+          internal: H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==
+          blockMaterial: MOB_SPAWNER
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eMagma Cube §fSpawner
+          internal: H4sIAAAAAAAAAH2NwQqCUBBFbwbiG8L+qEXYQmgRvMD1UIMNvjRyUPr78gluhNb3nHsIIOTH0N2aU2tqnyvXBOdfPLYFG2dI9A535oF90KfAYR/HS2fyEzj0BGBDSGd/JWyRVqL1wyZsqrkltGL/lgk7r6GJgLz7BJnEo7LAAfgCSoe2z8kAAAA=
+          blockMaterial: MOB_SPAWNER
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eWitch §fSpawner
+          internal: H4sIAAAAAAAAAHWNwQqCQBRFT0biPKL+SWzRLjBw/bBBBweNfBD9fTlB4KL1OfceAeFQxqkdTqMFe121E1x91+dYqWlBFm7smmBtj+OYwGUy/5E1zgJshPy7Xclb8saHrrdFWSruF1h5f2vCvg5xSNA/5ozCp4NzRQlv561TZbkAAAA=
+          blockMaterial: MOB_SPAWNER
+'13':
+  uniqueId: 9daacbb8-89b2-42bb-8b31-8805ea273fde
+  name: '&e&lKhung &f&lSpawner'
+  world: spawn
+  x: -40
+  y: 100
+  z: 33
+  type: admin
+  object: villager
+  uuid: c0248419-4dba-4de2-b7b3-c4686d1af7e2
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eZombie §fSpawner
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==
+          blockMaterial: MOB_SPAWNER
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eZombie §fSpawner
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==
+          blockMaterial: MOB_SPAWNER
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eSkeleton §fSpawner
+          internal: H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==
+          blockMaterial: MOB_SPAWNER
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eSkeleton §fSpawner
+          internal: H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==
+          blockMaterial: MOB_SPAWNER
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eSpider §fSpawner
+          internal: H4sIAAAAAAAAAHWN0QqCQBBFrwaLO0T+TF8Q9uBbsEHPgw42uKjoQPT35QaBDz6fc+8hgHC6xLHpr4Opve/cEXyY+DVUbFwg1xYuTNrKDI8ykdto8rU5LgQgI7jfeGsf4B6i3dNWZ+34f2Ir7gcJx6CxT1TmJUch6aKucAY+q80fSr0AAAA=
+          blockMaterial: MOB_SPAWNER
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eSpider §fSpawner
+          internal: H4sIAAAAAAAAAHWN0QqCQBBFrwaLO0T+TF8Q9uBbsEHPgw42uKjoQPT35QaBDz6fc+8hgHC6xLHpr4Opve/cEXyY+DVUbFwg1xYuTNrKDI8ykdto8rU5LgQgI7jfeGsf4B6i3dNWZ+34f2Ir7gcJx6CxT1TmJUch6aKucAY+q80fSr0AAAA=
+          blockMaterial: MOB_SPAWNER
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eCave Spider §fSpawner
+          internal: H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=
+          blockMaterial: MOB_SPAWNER
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eCave Spider §fSpawner
+          internal: H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=
+          blockMaterial: MOB_SPAWNER
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eBlaze §fSpawner
+          internal: H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==
+          blockMaterial: MOB_SPAWNER
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_FENCE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eKhung ghép §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+'14':
+  uniqueId: 1ab33ec9-5d88-4807-b578-f43cb05d43ae
+  name: '&6&lNòng cốt &f&lSpawner'
+  world: spawn
+  x: -40
+  y: 100
+  z: 37
+  type: admin
+  object: villager
+  uuid: 408a0aec-8de4-478d-9e70-37eefb4b7cf3
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 12
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+        amount: 6
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL_BLOCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL_BLOCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAPIS_BLOCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAPIS_BLOCK
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_BLOCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_BLOCK
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Nòng Cốt §7Spawner
+          lore:
+          - §2-----------------------------
+          - §eKhung ghép §7Spawner và §6Nòng Cốt §7Spawner
+          - §7là vật liệu để trao đổi Spawner ở warp Trade !
+          enchants:
+            DURABILITY: 10
+'15':
+  uniqueId: 29aa2104-6c9e-435e-a825-9c5aed68745e
+  name: '&4&lTNT &e&lTrader'
+  world: spawn
+  x: -39
+  y: 108
+  z: 31
+  type: admin
+  object: villager
+  uuid: 604652b4-3cc3-479f-b738-144ba8f29bcd
+  prof: BUTCHER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Wheat
+          lore:
+          - §6------------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TNT
+        amount: 8
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aCactus
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TNT
+        amount: 8
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_CARROT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Carrot
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TNT
+        amount: 8
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Potato
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TNT
+        amount: 8
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Pumpkin
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TNT
+        amount: 8
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_WART_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §cWart
+          lore:
+          - §c---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TNT
+        amount: 8
+'16':
+  uniqueId: cdca6e51-e0bd-4f06-9dd4-d64ac277b9d5
+  name: '&e&lThực phẩm &a&lđột biến'
+  world: spawn
+  x: -37
+  y: 108
+  z: 31
+  type: admin
+  object: villager
+  uuid: bc9b28f6-7ce4-4b5e-bc56-7479bf2e9d78
+  prof: BUTCHER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Wheat
+          lore:
+          - §6------------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: CACTUS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: CACTUS
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aCactus
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_CARROT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Carrot
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTATO_ITEM
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTATO_ITEM
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Potato
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STALK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STALK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_WART_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §cWart
+          lore:
+          - §c---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Pumpkin
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_BLOCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_BLOCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aMelon
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+'17':
+  uniqueId: 5c3c6466-1fb8-435f-baee-b4d9f87cc7ec
+  name: '&c&lObsidian'
+  world: spawn
+  x: -35
+  y: 108
+  z: 31
+  type: admin
+  object: villager
+  uuid: bdfe2ad0-c94b-44bc-8e9d-209c7926d6fa
+  prof: BUTCHER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 2
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aCactus
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 2
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aCactus
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_CARROT
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Carrot
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_CARROT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Carrot
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Potato
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Potato
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 16
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_WART_BLOCK
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §cWart
+          lore:
+          - §c---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_WART_BLOCK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §cWart
+          lore:
+          - §c---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 16
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Pumpkin
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Pumpkin
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 16
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_BLOCK
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aMelon
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_BLOCK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aMelon
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 16
+'18':
+  uniqueId: 1d67cda1-2b59-4ebb-a5cb-0880727dc9ec
+  name: '&a&lCreeper Egg'
+  world: spawn
+  x: -40
+  y: 108
+  z: 33
+  type: admin
+  object: villager
+  uuid: 0bcddbf2-28c4-4622-b57c-782acd90b247
+  prof: BUTCHER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 2
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aCactus
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Wheat
+          lore:
+          - §6------------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_CARROT
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Carrot
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Potato
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Potato
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_WART_BLOCK
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §cWart
+          lore:
+          - §c---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_WART_BLOCK
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §cWart
+          lore:
+          - §c---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Pumpkin
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Pumpkin
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_BLOCK
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aMelon
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+'19':
+  uniqueId: fe7ffe77-4f0d-4775-afde-a00383436834
+  name: '&b&lHopper'
+  world: spawn
+  x: -34
+  y: 108
+  z: 33
+  type: admin
+  object: villager
+  uuid: 73b1e5a3-bc01-4e7e-ab7b-5b3ac866a9fa
+  prof: BUTCHER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Wheat
+          lore:
+          - §6------------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 2
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aCactus
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: HOPPER
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_CARROT
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Carrot
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Potato
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: HOPPER
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Potato
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_WART_BLOCK
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §cWart
+          lore:
+          - §c---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: HOPPER
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_WART_BLOCK
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §cWart
+          lore:
+          - §c---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Pumpkin
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: HOPPER
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_BLOCK
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §aMelon
+          lore:
+          - §a---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnchanted §6Pumpkin
+          lore:
+          - §6---------------------
+          - §7Dùng trao đổi vật phẩm tại warp trade
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: HOPPER
+'20':
+  uniqueId: a61720e0-5c89-4785-8b6d-cd0738455045
+  name: '&e&lCrate Keys'
+  world: spawn
+  x: -40
+  y: 108
+  z: 37
+  type: admin
+  object: villager
+  uuid: bebd9907-318d-4072-baab-cd98dec93d1d
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ax10 §cDonated §eGold
+          lore:
+          - §b----------------
+          - §fĐược làm bằng §e10 thỏi vàng donate
+          - §cHãy giữ nó cẩn thận và tránh làm mất :|
+          enchants:
+            DURABILITY: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cDonated §eGold
+          lore:
+          - §fVật phẩm có thể mua trên §eShop Premium
+          - §cHãy giữ nó cẩn thận và tránh làm mất :|
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eButter Crate Key
+          lore:
+          - §7Right-Click on a "§eButter§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ax10 §cDonated §eGold
+          lore:
+          - §b----------------
+          - §fĐược làm bằng §e10 thỏi vàng donate
+          - §cHãy giữ nó cẩn thận và tránh làm mất :|
+          enchants:
+            DURABILITY: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3BlueBerry Crate Key
+          lore:
+          - §7Right-Click on a "§3BlueBerry§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+'21':
+  uniqueId: c439a3ab-c396-4253-aeb4-dab640a48ce0
+  name: ''
+  world: spawn
+  x: -35
+  y: 104
+  z: 4
+  type: admin
+  object: wolf
+  uuid: 96c445b8-2f05-4552-963b-0270656bab59
+  recipes: {}
+'22':
+  uniqueId: 2210d8c4-ba40-4bd8-be20-47ee8fe27735
+  name: '&e&l Set : &b&lHunter'
+  world: spawn
+  x: -42
+  y: 108
+  z: 0
+  type: admin
+  object: villager
+  uuid: 41efe4de-8c5b-4b31-b2ce-fa132b7219ea
+  prof: FARMER
+  recipes: {}
+'23':
+  uniqueId: 9b59aa07-3d86-4a1e-88ab-c0b354e79f63
+  name: '&6 nhà thám hiểm ai cập'
+  world: dungeon
+  x: 29
+  y: 110
+  z: -132
+  type: admin
+  object: villager
+  uuid: 73a9150f-393f-45ef-a209-d4d990d3107c
+  prof: BLACKSMITH
+  recipes: {}
+'24':
+  uniqueId: a760fbfc-f8e5-4ed1-85ec-09b0d0dd19fd
+  name: '&6&lNhà thám hiểm Ai cập'
+  world: dungeon
+  x: 29
+  y: 110
+  z: -131
+  type: admin
+  object: villager
+  uuid: 71de24ff-062a-4c82-8239-20dd2ca8ef43
+  prof: BUTCHER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f§lXương xác ướp
+          lore:
+          - §fXương của các xác ướp
+          - §fAi Cập cổ đại
+          enchants:
+            DAMAGE_ALL: 3
+            KNOCKBACK: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMilk Crate Key
+          lore:
+          - §7Right-Click on a "§fMilk§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f§lXương xác ướp
+          lore:
+          - §fXương của các xác ướp
+          - §fAi Cập cổ đại
+          enchants:
+            DAMAGE_ALL: 3
+            KNOCKBACK: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMilk Crate Key
+          lore:
+          - §7Right-Click on a "§fMilk§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f§lXương xác ướp
+          lore:
+          - §fXương của các xác ướp
+          - §fAi Cập cổ đại
+          enchants:
+            DAMAGE_ALL: 3
+            KNOCKBACK: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eButter Crate Key
+          lore:
+          - §7Right-Click on a "§eButter§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f§lXương xác ướp
+          lore:
+          - §fXương của các xác ướp
+          - §fAi Cập cổ đại
+          enchants:
+            DAMAGE_ALL: 3
+            KNOCKBACK: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eButter Crate Key
+          lore:
+          - §7Right-Click on a "§eButter§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f§lXương xác ướp
+          lore:
+          - §fXương của các xác ướp
+          - §fAi Cập cổ đại
+          enchants:
+            DAMAGE_ALL: 3
+            KNOCKBACK: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aNgọc bảo vệ
+          lore:
+          - §7Mỗi viên ngọc có sức mạnh bảo vệ
+          - §7vật phẩm §c1 lần§7.
+          - §7§l(§6§l!§7§l) §7Chuột phải vào vật bạn muốn bảo vệ.
+'25':
+  uniqueId: bb8d5a3b-3a99-4468-8a8a-9829b420ded5
+  name: '&b&ldân lánh nạn'
+  world: dungeon
+  x: 73
+  y: 154
+  z: -173
+  type: admin
+  object: villager
+  uuid: dd3fa740-8b3f-4d97-a2c5-b5bd5ebbda12
+  prof: FARMER
+  recipes: {}
+'26':
+  uniqueId: 6a954ab7-a998-4daa-941a-4c3b3dd2394a
+  name: '&6&ltrưởng làng'
+  world: dungeon
+  x: 83
+  y: 159
+  z: -192
+  type: admin
+  object: villager
+  uuid: 135511d1-7900-4db0-b937-1b99a4a88cd1
+  prof: FARMER
+  recipes: {}
+'27':
+  uniqueId: cba2700b-0e95-4213-a758-8083a4b658da
+  name: '&b con của DB và PA'
+  world: superbomb
+  x: 550
+  y: 5
+  z: 995
+  type: admin
+  object: villager
+  uuid: 1d43f6c0-6e97-4399-b5f6-7e2e8c3cf474
+  prof: FARMER
+  recipes: {}

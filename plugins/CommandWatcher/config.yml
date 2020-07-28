@@ -1,0 +1,8 @@
+Format: '&7[&6CW&7] %sender% &7 &6&o| &e%command%'
+Enabled-Self: '&aSuccess&f: &7CommandWatcher &aenabled&7!'
+Enabled-Other-Target: '&aSuccess&f: &7CommandWatcher &aenabled &7by: &e%sender%'
+Enabled-Other-Sender: '&aSuccess&f: &7CommandWatcher &aenabled &7for: &e%target%'
+Disabled-Self: '&aSuccess&f: &7CommandWatcher &cdisabled&7!'
+Disabled-Other-Target: '&aSuccess&f: &7CommandWatcher &cdisabled &7by: &e%sender%'
+Disabled-Other-Sender: '&aSuccess&f: &7CommandWatcher &cdisabled &7for: &e%target%'
+No-Permission: '&4Error&f: &7You do not have the correct permission to do this!'

@@ -1,0 +1,7 @@
+# ------------------------------------------------
+# Statistics collected on http://mcstats.org
+# This file is only used by MobHunting.
+# ------------------------------------------------
+opt-out-mobhunting: false
+guid: c4f6a8f9-54d9-450e-af32-5ace868804a4
+debug: false

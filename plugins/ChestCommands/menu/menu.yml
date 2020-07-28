@@ -1,0 +1,110 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1Server Menu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 2
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'menu'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ' tell: &eBạn đã mở Menu của server.'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+warp:
+  COMMAND: 'open: warp.yml'
+  NAME: '&2Warp'
+  LORE:
+    - 'Bấm vào để mở menu warp'
+    - 'Giúp bạn có thể đến từng Warp nhanh hơn'
+    - 'Bạn cũng có thể dùng lệnh /warp để mở'
+  ID: compass
+  POSITION-X: 2
+  POSITION-Y: 1
+
+
+kits:
+  COMMAND: 'open: kits.yml'
+  NAME: '&fKit'
+  LORE:
+    - 'Click để chọn kit theo rank của bạn'
+    - 'Nạp tiền để có kit rank mạnh hơn'
+    - 'bạn cũng có thể dùng lệnh /kit để mở'
+  ID: 264
+  POSITION-X: 4
+  POSITION-Y: 1
+
+
+shop:
+  COMMAND: 'shop'
+  NAME: '&6Shop'
+  LORE:
+    - 'Click vào để mở Shop'
+    - 'Bạn có thể mua bán đồ ở đây'
+    - 'Ban cũng có thể dùng lệnh /shop để mở'
+  ID: chest
+  POSITION-X: 6
+  POSITION-Y: 1
+
+
+shoppre:
+  COMMAND: 'open: shoppre.yml'
+  NAME: '&7Shop &ePremium'
+  LORE:
+    - 'Nơi mua bán đồ bằng point donate'
+    - 'Ban cũng có thể dùng lệnh /shoppre để mở'
+  ID: 130
+  POSITION-X: 8
+  POSITION-Y: 1
+
+donate:
+  COMMAND: 'napthe'
+  NAME: '&cDonate'
+  LORE:
+    - 'Nơi nạp tiền đổi lấy points'
+    - 'Đồng thời ủng hộ cho server duy trì'
+    - 'Ban cũng có thể dùng lệnh /napthe để donate'
+  ID: emerald
+  POSITION-X: 3
+  POSITION-Y: 2
+
+ah:
+  COMMAND: 'ah'
+  NAME: '&3Chợ đen'
+  LORE:
+    - 'Nơi mua mua bán vật phẩm với nhau'
+    - 'Có thể dùng lệnh /ah để vào chợ đen'
+  ID: 138
+  POSITION-X: 7
+  POSITION-Y: 2
+
+menu-close-no-commands-no-lore:
+  NAME: '&6Close the Server Menu'
+  ID: 399
+  LORE:
+    - 'Click để đóng Server Menu'
+  ID: barrier
+  POSITION-X: 5
+  POSITION-Y: 2

@@ -1,0 +1,1436 @@
+# [][][][][][][][][][][][][][][][][][][][][]
+#  CratesPlus V4.4.1 Config
+# [][][][][][][][][][][][][][][][][][][][][]
+# ------------------------------------------
+# There are many placeholders that can now be used withing the config and messages file, placeholders are as followed:
+# - %name% - Replaces with the players name, Example: "Notch".
+# - %displayname% - Replaces with the players display name, Example: "[Owner] Notch".
+# - %uuid% - Replaces with the players UUID.
+# - %crate% - The crate types name.
+# - %prize% - The name of the winning.
+# - %percentage% - Percentage of the winning, useful for "Chance Message".
+# - %rand;100;500% - Generates a random number between two numbers, example is between 100 and 500.
+# ------------------------------------------
+# Don't change the config version!
+
+Config Version: 6
+Update Checks: true
+Update Branch: spigot
+Metrics: true
+Default Opener: BasicGUI
+Default Cooldown: 5
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+- Right-Click to Open!
+- Left-Click to Preview!
+Crates:
+  Butter:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: YELLOW
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 2
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: GOLDEN_CARROT
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&eButter Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§eButter§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eButter Crate Key
+          lore:
+          - §7Right-Click on a "§eButter§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '6':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 10
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: SLIME_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 3
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: COAL_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 20
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: MONSTER_EGG
+        Item Data: 0
+        Name: NONE
+        Amount: 2
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+        Entity Type: CREEPER
+      '12':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DIG_SPEED: 4
+      '13':
+        Type: ITEM
+        Item Type: HOPPER
+        Item Data: 0
+        Name: NONE
+        Amount: 2
+        Enchantments: []
+        Lore: []
+      '14':
+        Type: ITEM
+        Item Type: SKULL_ITEM
+        Item Data: 1
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '15':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&ePig &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §ePig §fSpawner
+          internal: H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA
+          blockMaterial: MOB_SPAWNER
+      '16':
+        Type: ITEM
+        Item Type: TNT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '17':
+        Type: ITEM
+        Item Type: NETHER_STAR
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '18':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&eChicken &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eChicken §fSpawner
+          internal: H4sIAAAAAAAAAH2NwQqCUBBFbwbmG6L+qWzRLjBo5WKwQYf3eEYORH+vvqCFC9fn3HsIIBxOoW/8JZra984twVUv/sSSjQtk+sTu3GnjJcLhmNCtN5l0DgMB2BDy33qhb5E/RNvOZmkuuX9kYa40CftKg09Y3kOGQtLJtUQNjN+9EUfBAAAA
+          blockMaterial: MOB_SPAWNER
+      '19':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            LOOT_BONUS_BLOCKS: 2
+      '20':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&bBlueBerry Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§bBlueBerry§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bBlueBerry Crate Key
+          lore:
+          - §7Right-Click on a "§bBlueBerry§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '21':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      '22':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      '23':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      '24':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      '25':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+      '26':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+      '27':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&6Chi phiếu'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §9Miscellaneous
+        - §fMệnh giá§a $5,000
+        - §cThuộc ngân hàng §eDreamCatcher
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $5,000
+          - §cThuộc ngân hàng §eDreamCatcher
+      '28':
+        Type: ITEM
+        Item Type: DOUBLE_PLANT
+        Item Data: 0
+        Name: '&eBánh xe vàng'
+        Amount: 2
+        Enchantments: []
+        Lore:
+        - §7§eBánh xe vàng §7cho bạn
+        - §7thay đổi tỉ số §athành công §7và §4phá huỷ.
+        - §7Chuột phải vào cuốn sách ma thuật.
+        - §7để thay đổi và nhận tỉ lệ mới.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eBánh xe vàng
+          lore:
+          - §7§eBánh xe vàng §7cho bạn
+          - §7thay đổi tỉ số §athành công §7và §4phá huỷ.
+          - §7Chuột phải vào cuốn sách ma thuật.
+          - §7để thay đổi và nhận tỉ lệ mới.
+      '29':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            FROST_WALKER: 1
+      '30':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&6Chi phiếu'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §9Miscellaneous
+        - §fMệnh giá§a $7,000
+        - §cThuộc ngân hàng §eDreamCatcher
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $7,000
+          - §cThuộc ngân hàng §eDreamCatcher
+      '31':
+        Type: ITEM
+        Item Type: BOOK
+        Item Data: 0
+        Name: '&8Cuốn sách &a&lCommon&8 đã thất lạc'
+        Amount: 2
+        Enchantments: []
+        Lore:
+        - §7Cuốn sách đã thất lạc ngàn năm
+        - §7Một dòng chữ hiện lên rằng nó từ mục §a§lCommon.
+        - §7Bạn cần phải chùi nó để biết rằng nó từ đâu.
+        - §7§l(§6§l!§7§l) §7Chuột phải để chùi.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Cuốn sách §a§lCommon§8 đã thất lạc
+          lore:
+          - §7Cuốn sách đã thất lạc ngàn năm
+          - §7Một dòng chữ hiện lên rằng nó từ mục §a§lCommon.
+          - §7Bạn cần phải chùi nó để biết rằng nó từ đâu.
+          - §7§l(§6§l!§7§l) §7Chuột phải để chùi.
+      '32':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&6Chi phiếu'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §9Miscellaneous
+        - §fMệnh giá§a $2,000
+        - §cThuộc ngân hàng §eDreamCatcher
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $2,000
+          - §cThuộc ngân hàng §eDreamCatcher
+      '33':
+        Type: ITEM
+        Item Type: EMERALD
+        Item Data: 0
+        Name: '&aNgọc bảo vệ'
+        Amount: 3
+        Enchantments: []
+        Lore:
+        - §7Mỗi viên ngọc có sức mạnh bảo vệ
+        - §7vật phẩm §c1 lần§7.
+        - §7§l(§6§l!§7§l) §7Chuột phải vào vật bạn muốn bảo vệ.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aNgọc bảo vệ
+          lore:
+          - §7Mỗi viên ngọc có sức mạnh bảo vệ
+          - §7vật phẩm §c1 lần§7.
+          - §7§l(§6§l!§7§l) §7Chuột phải vào vật bạn muốn bảo vệ.
+      '34':
+        Type: ITEM
+        Item Type: FISHING_ROD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Unbreakable: true
+  BlueBerry:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: DARK_AQUA
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DAMAGE_ALL: 5
+      '2':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 24
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: BOOK
+        Item Data: 0
+        Name: '&8Cuốn sách &9&lRare&8 đã thất lạc'
+        Amount: 2
+        Enchantments: []
+        Lore:
+        - §7Cuốn sách đã thất lạc ngàn năm
+        - §7Một dòng chữ hiện lên rằng nó từ mục §9§lRare.
+        - §7Bạn cần phải chùi nó để biết rằng nó từ đâu.
+        - §7§l(§6§l!§7§l) §7Chuột phải để chùi.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Cuốn sách §9§lRare§8 đã thất lạc
+          lore:
+          - §7Cuốn sách đã thất lạc ngàn năm
+          - §7Một dòng chữ hiện lên rằng nó từ mục §9§lRare.
+          - §7Bạn cần phải chùi nó để biết rằng nó từ đâu.
+          - §7§l(§6§l!§7§l) §7Chuột phải để chùi.
+      '4':
+        Type: ITEM
+        Item Type: EMERALD
+        Item Data: 0
+        Name: '&aNgọc bảo vệ'
+        Amount: 6
+        Enchantments: []
+        Lore:
+        - §7Mỗi viên ngọc có sức mạnh bảo vệ
+        - §7vật phẩm §c1 lần§7.
+        - §7§l(§6§l!§7§l) §7Chuột phải vào vật bạn muốn bảo vệ.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aNgọc bảo vệ
+          lore:
+          - §7Mỗi viên ngọc có sức mạnh bảo vệ
+          - §7vật phẩm §c1 lần§7.
+          - §7§l(§6§l!§7§l) §7Chuột phải vào vật bạn muốn bảo vệ.
+      '5':
+        Type: ITEM
+        Item Type: SHEARS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Unbreakable: true
+      '6':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            FROST_WALKER: 2
+      '7':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 24
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: REDSTONE_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: COAL_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: LAPIS_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: SKULL_ITEM
+        Item Data: 5
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 20
+        Enchantments: []
+        Lore: []
+      '13':
+        Type: ITEM
+        Item Type: MONSTER_EGG
+        Item Data: 0
+        Name: NONE
+        Amount: 4
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+        Entity Type: CREEPER
+      '14':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+      '15':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+      '16':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+      '17':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-5
+        - FIRE_ASPECT-1
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 5
+            FIRE_ASPECT: 1
+            DURABILITY: 3
+      '18':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-5
+        - FIRE_ASPECT-1
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 5
+            FIRE_ASPECT: 1
+            DURABILITY: 3
+      '19':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 24
+        Enchantments: []
+        Lore: []
+      '20':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 12
+        Enchantments: []
+        Lore: []
+      '21':
+        Type: ITEM
+        Item Type: SKULL_ITEM
+        Item Data: 1
+        Name: NONE
+        Amount: 3
+        Enchantments: []
+        Lore: []
+      '22':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            OXYGEN: 3
+      '23':
+        Type: ITEM
+        Item Type: BOOK
+        Item Data: 0
+        Name: '&8Cuốn sách &a&lCommon&8 đã thất lạc'
+        Amount: 4
+        Enchantments: []
+        Lore:
+        - §7Cuốn sách đã thất lạc ngàn năm
+        - §7Một dòng chữ hiện lên rằng nó từ mục §a§lCommon.
+        - §7Bạn cần phải chùi nó để biết rằng nó từ đâu.
+        - §7§l(§6§l!§7§l) §7Chuột phải để chùi.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8Cuốn sách §a§lCommon§8 đã thất lạc
+          lore:
+          - §7Cuốn sách đã thất lạc ngàn năm
+          - §7Một dòng chữ hiện lên rằng nó từ mục §a§lCommon.
+          - §7Bạn cần phải chùi nó để biết rằng nó từ đâu.
+          - §7§l(§6§l!§7§l) §7Chuột phải để chùi.
+      '24':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 20
+        Enchantments: []
+        Lore: []
+      '25':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DIG_SPEED: 5
+      '26':
+        Type: ITEM
+        Item Type: HOPPER
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '27':
+        Type: ITEM
+        Item Type: DOUBLE_PLANT
+        Item Data: 0
+        Name: '&eBánh xe vàng'
+        Amount: 6
+        Enchantments: []
+        Lore:
+        - §7§eBánh xe vàng §7cho bạn
+        - §7thay đổi tỉ số §athành công §7và §4phá huỷ.
+        - §7Chuột phải vào cuốn sách ma thuật.
+        - §7để thay đổi và nhận tỉ lệ mới.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eBánh xe vàng
+          lore:
+          - §7§eBánh xe vàng §7cho bạn
+          - §7thay đổi tỉ số §athành công §7và §4phá huỷ.
+          - §7Chuột phải vào cuốn sách ma thuật.
+          - §7để thay đổi và nhận tỉ lệ mới.
+      '28':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+      '29':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DAMAGE_ARTHROPODS: 5
+  Milk:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: GRASS
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: CARROT_STICK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: ENDER_CHEST
+        Item Data: 0
+        Name: NONE
+        Amount: 2
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: CHEST
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 4
+        Enchantments: []
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: MONSTER_EGG
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA
+        Entity Type: CREEPER
+      '7':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            SILK_TOUCH: 1
+      '8':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&fMilk Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§fMilk§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fMilk Crate Key
+          lore:
+          - §7Right-Click on a "§fMilk§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '9':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&eButter Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§eButter§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eButter Crate Key
+          lore:
+          - §7Right-Click on a "§eButter§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '10':
+        Type: ITEM
+        Item Type: QUARTZ_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 4
+        Enchantments: []
+        Lore: []
+      '13':
+        Type: ITEM
+        Item Type: EXP_BOTTLE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '14':
+        Type: ITEM
+        Item Type: TNT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '15':
+        Type: ITEM
+        Item Type: HOPPER
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '16':
+        Type: ITEM
+        Item Type: REDSTONE_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 10
+        Enchantments: []
+        Lore: []
+      '17':
+        Type: ITEM
+        Item Type: LAPIS_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 10
+        Enchantments: []
+        Lore: []
+      '18':
+        Type: ITEM
+        Item Type: COAL_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 10
+        Enchantments: []
+        Lore: []
+      '19':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-2
+        - DURABILITY-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 2
+            DURABILITY: 1
+      '20':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-2
+        - DURABILITY-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 1
+      '21':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 1
+      '22':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 1
+      '23':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 1
+      '24':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            OXYGEN: 1
+      '25':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+      '26':
+        Type: ITEM
+        Item Type: GLOWSTONE
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '27':
+        Type: ITEM
+        Item Type: ENCHANTED_BOOK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            LOOT_BONUS_BLOCKS: 2
+      '28':
+        Type: ITEM
+        Item Type: ENDER_PEARL
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '29':
+        Type: ITEM
+        Item Type: NAME_TAG
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '30':
+        Type: ITEM
+        Item Type: BOOKSHELF
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '31':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&eZombie &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eZombie §fSpawner
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==
+          blockMaterial: MOB_SPAWNER
+      '32':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&6Chi phiếu'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §9Miscellaneous
+        - §fMệnh giá§a $500
+        - §cThuộc ngân hàng §eDreamCatcher
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $500
+          - §cThuộc ngân hàng §eDreamCatcher
+      '33':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&eCave Spider &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eCave Spider §fSpawner
+          internal: H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=
+          blockMaterial: MOB_SPAWNER
+      '34':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&6Chi phiếu'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §9Miscellaneous
+        - §fMệnh giá§a $200
+        - §cThuộc ngân hàng §eDreamCatcher
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $200
+          - §cThuộc ngân hàng §eDreamCatcher
+      '35':
+        Type: ITEM
+        Item Type: EXP_BOTTLE
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '36':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&eSpider &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eSpider §fSpawner
+          internal: H4sIAAAAAAAAAHWN0QqCQBBFrwaLO0T+TF8Q9uBbsEHPgw42uKjoQPT35QaBDz6fc+8hgHC6xLHpr4Opve/cEXyY+DVUbFwg1xYuTNrKDI8ykdto8rU5LgQgI7jfeGsf4B6i3dNWZ+34f2Ir7gcJx6CxT1TmJUch6aKucAY+q80fSr0AAAA=
+          blockMaterial: MOB_SPAWNER
+      '37':
+        Type: ITEM
+        Item Type: OBSIDIAN
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '38':
+        Type: ITEM
+        Item Type: OBSIDIAN
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '39':
+        Type: ITEM
+        Item Type: SADDLE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '40':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 1
+      '41':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&6Chi phiếu'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §9Miscellaneous
+        - §fMệnh giá§a $700
+        - §cThuộc ngân hàng §eDreamCatcher
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Chi phiếu
+          lore:
+          - §9Miscellaneous
+          - §fMệnh giá§a $700
+          - §cThuộc ngân hàng §eDreamCatcher
+      '42':
+        Type: ITEM
+        Item Type: DIAMOND_BARDING
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '43':
+        Type: ITEM
+        Item Type: TNT
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '44':
+        Type: ITEM
+        Item Type: STICK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '45':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 5
+        Enchantments: []
+        Lore: []
+  '&6&lDragon':
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+  '&4&lDragon':
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE

@@ -1,0 +1,55 @@
+#This is Title of scoreboard
+title:
+- '&f&l> &c&lThông tin&f&l <'
+- '&f&l> &c&lThông ti&f&l <'
+- '&f&l> &c&lThông t&f&l <'
+- '&f&l> &c&lThông &f&l <'
+- '&f&l> &c&lThông&f&l <'
+- '&f&l> &c&lThôn&f&l <'
+- '&f&l> &c&lThô&f&l <'
+- '&f&l> &c&lTh&f&l <'
+- '&f&l> &c&lT&f&l <'
+- '&f&l> &f&l <'
+- '&f&l< &f&l >'
+- '&f&l< &c&lT&f&l >'
+- '&f&l< &c&lTh&f&l >'
+- '&f&l< &c&lThô&f&l >'
+- '&f&l< &c&lThôn&f&l >'
+- '&f&l< &c&lThông&f&l >'
+- '&f&l< &c&lThông t&f&l >'
+- '&f&l< &c&lThông ti&f&l >'
+- '&f&l< &c&lThông tin&f&l >'
+- '&f&l< &c&lThông tin&f&l >'
+- '&c&lThông tin'
+- '&6&lThông tin'
+- '&e&lThông tin'
+- '&a&lThông tin'
+- '&7&lThông tin'
+- '&d&lThông tin'
+- '&b&lThông tin'
+- '&c&lThông tin'
+#This is Text of scoreboard
+text:
+- ''
+- '&9Tên &f{PLAYER}'
+- '&bRank: &f%vault_group%'
+- '&7Power: &f%factions_power%'
+- '&6Points: &f%playerpoints_points%'
+- '&aMoney: &f%vault_eco_balance_formatted%'
+- '&eMcMMo: &f%mcmmo_power_level%'
+- '&cPing: &f%player_ping%ms'
+- ''
+- '&dIP: &c&lDreamCT.ddns.net'
+#Text and title update time in ticks
+updater:
+  title: 2
+  text: 5
+#Enabled worlds of this scoreboard
+enabledWorlds:
+- world
+- world_nether
+- world_the_end
+- PvPArea
+- spawn
+- Jail
+- dungeon

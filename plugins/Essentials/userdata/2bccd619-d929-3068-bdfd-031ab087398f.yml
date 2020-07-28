@@ -1,0 +1,36 @@
+lastAccountName: _NoobPVP_
+timestamps:
+  login: 1500608015340
+  lastteleport: 1500558412811
+  logout: 1500608040508
+  kits:
+    pariah: 1500544357666
+    food: 1500544596814
+  jail: 0
+  mute: 0
+ipAddress: 14.168.64.103
+lastlocation:
+  world: spawn
+  x: 24.413147857757576
+  y: 101.0
+  z: -2.1776902841740804
+  yaw: -94.6434
+  pitch: -7.7999864
+logoutlocation:
+  world: world
+  x: -2444.8429148950595
+  y: 63.0
+  z: -4658.617074665321
+  yaw: -350.26413
+  pitch: 18.98895
+money: '0.0'
+jailed: false
+homes:
+  home:
+    world: world
+    x: -2610.16309717773
+    y: 71.0
+    z: -4805.30505865088
+    yaw: -121.80888
+    pitch: 24.067293
+muted: false

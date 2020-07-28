@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "Dungeon",
+  "createdAtMillis": 1500874742514,
+  "invitations": {},
+  "flags": {
+    "monsters": true,
+    "powerloss": false,
+    "pvp": false,
+    "offlineexplosions": true,
+    "permanent": true,
+    "peaceful": true,
+    "infpower": true
+  }
+}

@@ -1,0 +1,55 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWN0QqCQBBFrwaLO0T+TF8Q9uBbsEHPgw42uKjoQPT35QaBDz6fc+8hgHC6xLHpr4Opve/cEXyY+DVUbFwg1xYuTNrKDI8ykdto8rU5LgQgI7jfeGsf4B6i3dNWZ+34f2Ir7gcJx6CxT1TmJUch6aKucAY+q80fSr0AAAA=","display-name":"§eSpider
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWN0QqCQBBFrwaLO0T+TF8Q9uBbsEHPgw42uKjoQPT35QaBDz6fc+8hgHC6xLHpr4Opve/cEXyY+DVUbFwg1xYuTNrKDI8ykdto8rU5LgQgI7jfeGsf4B6i3dNWZ+34f2Ir7gcJx6CxT1TmJUch6aKucAY+q80fSr0AAAA=","display-name":"§eSpider
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==","display-name":"§eSkeleton
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==","display-name":"§eSkeleton
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==","display-name":"§eSkeleton
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=","display-name":"§eCave
+    Spider §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=","display-name":"§eCave
+    Spider §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=","display-name":"§eCave
+    Spider §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWN0QqCQBBFrwaLO0T+TF8Q9uBbsEHPgw42uKjoQPT35QaBDz6fc+8hgHC6xLHpr4Opve/cEXyY+DVUbFwg1xYuTNrKDI8ykdto8rU5LgQgI7jfeGsf4B6i3dNWZ+34f2Ir7gcJx6CxT1TmJUch6aKucAY+q80fSr0AAAA=","display-name":"§eSpider
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWN0QqCQBBFrwaLO0T+TF8Q9uBbsEHPgw42uKjoQPT35QaBDz6fc+8hgHC6xLHpr4Opve/cEXyY+DVUbFwg1xYuTNrKDI8ykdto8rU5LgQgI7jfeGsf4B6i3dNWZ+34f2Ir7gcJx6CxT1TmJUch6aKucAY+q80fSr0AAAA=","display-name":"§eSpider
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội để gây","§3gấp đôi sát thương.","","§6Tìm được trong mục:","§7 - §4Legendary","§6Có
+    thể ép vô: §aKiếm","§419% Phá huỷ","§a57% Thành công"],"display-name":"§eDoubleDamage
+    III"},"type":"ENCHANTED_BOOK"}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Hồi máu
+    cho bạn","§3khi đánh.","","§6Tìm được trong mục:","§7 - §4Legendary","§6Có thể
+    ép vô: §aKiếm","§420% Phá huỷ","§a47% Thành công"],"display-name":"§eVampire II"},"type":"ENCHANTED_BOOK"}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội làm kẻ dịch bị","§3mù và chậm rãi để bạn trốn thoát.","","§6Tìm được trong
+    mục:","§7 - §aCommon","§7 - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aTất
+    cả các loại giáp","§440% Phá huỷ","§a40% Thành công"],"display-name":"§eSmokeBomb
+    II"},"type":"ENCHANTED_BOOK"}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","damage":76,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"DAMAGE_ALL":1},"lore":["§7Pariah
+    §fKit Item"],"display-name":"§7Pariah §fAxe"},"type":"DIAMOND_AXE"}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","damage":215,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"SILK_TOUCH":1,"LOOT_BONUS_BLOCKS":3,"DIG_SPEED":5,"MENDING":1},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fPickaxe"},"type":"DIAMOND_PICKAXE"}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","damage":2,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"KNOCKBACK":1,"LOOT_BONUS_MOBS":3,"DAMAGE_ALL":5,"FIRE_ASPECT":2},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fAxe"},"type":"DIAMOND_AXE"}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"ARROW_FIRE":1,"ARROW_KNOCKBACK":2,"ARROW_DAMAGE":5,"ARROW_INFINITE":1},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fBow"},"type":"BOW"}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAIWOXQuCQBBFbwbiDn38pzDCN8Go58GGbXF0Qweif19u0JPQ+zn3XAIIu4PGtjsOFux1Zk9wzYOfQ8nGBbJww/YSVNnLeIoqPRz2CaijyUdinQjAipB/NxalNfKrBH+3GZ2r7hdc5P++IGyaoF2CZJwyFJIGqxIt8AY/TAwh2QAAAA==","display-name":"§eIron
+    Golem §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '53': '{"==":"org.bukkit.inventory.ItemStack","type":"NETHER_STAR"}'

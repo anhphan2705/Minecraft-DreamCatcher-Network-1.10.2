@@ -1,0 +1,8 @@
+&8&m--------------------------------------
+&c              WELCOME to the WhiteHouse
+&6                   PvP Training Server
+
+&a                            Online: {ONLINE}
+
+&e               MOTD made by &lDuge&e with &c<3
+&8&m--------------------------------------

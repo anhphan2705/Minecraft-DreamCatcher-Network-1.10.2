@@ -1,0 +1,26 @@
+lastAccountName: evildark666
+timestamps:
+  login: 1500736427216
+  logout: 1500738155242
+  lastteleport: 1500737612411
+  kits:
+    governor: 1500737374834
+  mute: 0
+ipAddress: 118.68.24.97
+lastlocation:
+  world: spawn
+  x: 8.5
+  y: 97.0
+  z: -2.5
+  yaw: -94.6434
+  pitch: -7.7999864
+logoutlocation:
+  world: world
+  x: -2925.3166450710387
+  y: 52.0
+  z: -2997.699999988079
+  yaw: -25.347303
+  pitch: 9.150074
+money: '100100'
+afk: false
+muted: false

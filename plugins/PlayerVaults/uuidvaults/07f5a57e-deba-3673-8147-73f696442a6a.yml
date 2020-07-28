@@ -1,0 +1,147 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"SILK_TOUCH":1,"DIG_SPEED":5,"MENDING":1},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fShovel"},"type":"DIAMOND_SPADE"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","damage":2,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"SILK_TOUCH":1,"LOOT_BONUS_BLOCKS":3,"DIG_SPEED":5,"MENDING":1},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fPickaxe"},"type":"DIAMOND_PICKAXE"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=","display-name":"§eCave
+    Spider §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"SILK_TOUCH":1}},"type":"ENCHANTED_BOOK"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"LOOT_BONUS_MOBS":1,"DAMAGE_ALL":4,"FIRE_ASPECT":1},"lore":["§dPolitician
+    §fKit Item"],"display-name":"§dPolitician §fSword"},"type":"DIAMOND_SWORD"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội làm kẻ dịch bị","§3mù và chậm rãi để bạn trốn thoát.","","§6Tìm được trong
+    mục:","§7 - §aCommon","§7 - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aTất
+    cả các loại giáp","§423% Phá huỷ","§a17% Thành công"],"display-name":"§eSmokeBomb
+    III"},"type":"ENCHANTED_BOOK"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"DURABILITY":3}},"type":"ENCHANTED_BOOK"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội","§3làm kẻ địch di chuyển chậm đi.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aTất cả các loại giáp","§444% Phá
+    huỷ","§a43% Thành công"],"display-name":"§eFreeze II"},"type":"ENCHANTED_BOOK"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"SILK_TOUCH":1}},"type":"ENCHANTED_BOOK"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    sức kháng cự","§3dựa trên cấp độ sách của bạn.","","§6Tìm được trong mục:","§7
+    - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aTất cả các loại giáp","§442% Phá
+    huỷ","§a43% Thành công"],"display-name":"§eValor I"},"type":"ENCHANTED_BOOK"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội làm kẻ dịch","§3yếu đi.","","§6Tìm được trong mục:","§7 - §9Rare","§7 - §4Legendary","§6Có
+    thể ép vô: §aTất cả các loại giáp","§435% Phá huỷ","§a37% Thành công"],"display-name":"§eVoodoo
+    III"},"type":"ENCHANTED_BOOK"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"HOPPER"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội hút máu","§3từ kẻ địch mà bạn đánh.","","§6Tìm được trong mục:","§7 - §4Legendary","§6Có
+    thể ép vô: §aKiếm","§429% Phá huỷ","§a74% Thành công"],"display-name":"§eLifeSteal
+    II"},"type":"ENCHANTED_BOOK"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"KNOCKBACK":1,"LOOT_BONUS_MOBS":3,"DAMAGE_ALL":5,"FIRE_ASPECT":2},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fAxe"},"type":"DIAMOND_AXE"}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"FIRE_ASPECT":2}},"type":"ENCHANTED_BOOK"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    chạy nhanh hơn","§3khi sử dụng.","","§6Tìm được trong mục:","§7 - §4Legendary","§6Có
+    thể ép vô: §aỦng","§475% Phá huỷ","§a13% Thành công"],"display-name":"§eGears
+    I"},"type":"ENCHANTED_BOOK"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội cho bạn","§3gây thêm sát thương khi đánh.","","§6Tìm được trong mục:","§7
+    - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aKiếm","§483% Phá huỷ","§a4% Thành
+    công"],"display-name":"§eFastTurn II"},"type":"ENCHANTED_BOOK"}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":4,"type":"GOLDEN_APPLE"}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"ARROW_FIRE":1,"ARROW_KNOCKBACK":2,"ARROW_DAMAGE":5,"ARROW_INFINITE":1},"lore":["§cGovernor
+    §fKit Item"],"display-name":"§cGovernor §fBow"},"type":"BOW"}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    đào nhanh hơn","§3khi sử dụng.","","§6Tìm được trong mục:","§7 - §9Rare","§7 -
+    §4Legendary","§6Có thể ép vô: §aDụng cụ","§432% Phá huỷ","§a44% Thành công"],"display-name":"§eHaste
+    I"},"type":"ENCHANTED_BOOK"}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","amount":16,"type":"GOLDEN_APPLE"}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Đặt kẻ
+    địch trong 3 block","§3dính lửa ở trong thời gian ngắn.","","§6Tìm được trong
+    mục:","§7 - §eUltimate","§6Có thể ép vô: §aTất cả các loại giáp","§487% Phá huỷ","§a2%
+    Thành công"],"display-name":"§eRadiant I"},"type":"ENCHANTED_BOOK"}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Bạn được
+    hồi máu","§3sau khi bạn giết kẻ địch.","","§6Tìm được trong mục:","§7 - §9Rare","§7
+    - §4Legendary","§6Có thể ép vô: §aTất cả các loại giáp","§440% Phá huỷ","§a31%
+    Thành công"],"display-name":"§eRecover II"},"type":"ENCHANTED_BOOK"}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    khả năng nhảy cao","§3khi sử dụng.","","§6Tìm được trong mục:","§7 - §eUltimate","§6Có
+    thể ép vô: §aỦng","§425% Phá huỷ","§a16% Thành công"],"display-name":"§eAntiGravity
+    I"},"type":"ENCHANTED_BOOK"}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội cho bạn","§3loại bỏ các hiệu ứng bất lợi.","","§6Tìm được trong mục:","§7
+    - §4Legendary","§6Có thể ép vô: §aRìu","§471% Phá huỷ","§a6% Thành công"],"display-name":"§eBlessed
+    I"},"type":"ENCHANTED_BOOK"}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội nung quặng","§3và cho bạn thêm thỏi khi đào.","","§6Tìm được trong mục:","§7
+    - §4Legendary","§6Có thể ép vô: §aCúp","§423% Phá huỷ","§a44% Thành công"],"display-name":"§eAutoSmelt
+    I"},"type":"ENCHANTED_BOOK"}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Sát thương
+    sẽ càng trở nên","§3mạnh hơn nếu bạn tiếp tục đánh.","","§6Tìm được trong mục:","§7
+    - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aKiếm","§424% Phá huỷ","§a28% Thành
+    công"],"display-name":"§eRage I"},"type":"ENCHANTED_BOOK"}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    không bị đói","§3khi bạn đánh.","","§6Tìm được trong mục:","§7 - §4Legendary","§7
+    - §eUltimate","§6Có thể ép vô: §aKiếm","§433% Phá huỷ","§a29% Thành công"],"display-name":"§eNutrition
+    IV"},"type":"ENCHANTED_BOOK"}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    sức chống lửa","§3khi sử dụng.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§7 - §4Legendary","§7 - §eUltimate","§6Có thể ép vô: §aTất cả các loại
+    giáp","§40% Phá huỷ","§a74% Thành công"],"display-name":"§eBurnShield I"},"type":"ENCHANTED_BOOK"}'
+  '52': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '53': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'

@@ -1,0 +1,37 @@
+lastAccountName: nhan_vo51
+timestamps:
+  login: 1501048260205
+  logout: 1501048939588
+  lastteleport: 1501048554960
+  kits:
+    pariah: 1500896390824
+    food: 1500975918432
+  jail: 0
+  mute: 0
+ipAddress: 1.53.200.74
+lastlocation:
+  world: spawn
+  x: -38.15557810162389
+  y: 104.0
+  z: 7.207038235848511
+  yaw: 68.25725
+  pitch: 22.949993
+logoutlocation:
+  world: spawn
+  x: -5.372467927536868
+  y: 119.5
+  z: 23.210640696983102
+  yaw: 213.15442
+  pitch: 37.19995
+money: '74814.7000000000001453'
+homes:
+  home:
+    world: world
+    x: -2553.8322487516116
+    y: 80.0
+    z: 414.54600416098526
+    yaw: -4.49881
+    pitch: 5.550068
+jailed: false
+muted: false
+godmode: false

@@ -1,0 +1,30 @@
+lastAccountName: ImBaoLong
+timestamps:
+  login: 1500040157753
+  lastteleport: 1500040355656
+  kits:
+    slave: 1499182075084
+    op: 1499140731455
+    citizen: 1499181906443
+    pvp: 1499138583043
+    dtools: 1499101427635
+  logout: 1500040366281
+ipAddress: 183.81.52.60
+lastlocation:
+  world: spawn
+  x: -0.28791596811331016
+  y: 104.0
+  z: 4.249915744115112
+  yaw: 40.17093
+  pitch: 22.199982
+godmode: true
+logoutlocation:
+  world: world
+  x: -164.9867048007132
+  y: 71.5260850497707
+  z: -572.3823921583011
+  yaw: 10.505178
+  pitch: 27.449934
+afk: false
+nickname: §cImBaoLong
+money: '11900'

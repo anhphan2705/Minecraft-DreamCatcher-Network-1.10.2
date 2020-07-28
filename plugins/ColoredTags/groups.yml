@@ -1,0 +1,32 @@
+# #.
+# #.    ######################
+# #.    #       GROUPS       #
+# #.    ######################
+# #.
+# #. These are the names of the groups defined in you permissions plugin.
+# #. If a user has multiple groups, the group with the highest rank will
+# #. be chosen, as your chat plugin does.
+# #.
+# #. Prefixes or suffixes CANNOT be longer than 16 chars, including colors.
+# #.
+# #. <name> is the separator of prefix and suffix. If you don't include it,
+# #. the string will used as prefix.
+# #.
+user: '&f[&9User&f] '
+mod: '&f[&aMod&f] '
+admin: '&8&l[&4&lAdmin&8&l]'
+owner: '&8&l[&4&lOwner&8&l]'
+Co-owner: '&8&l[&4&lCo-Owner&8&l]'
+co-owner: '&8&l[&4&lCo-Owner&8&l]'
+Co_owner: '&8[&4Co-Owner&8]'
+builder: '&8&l[&c&lBuilder&8&l]'
+guard: '&8[&b&lGuard&8]'
+helper: '[22:35:44 INFO]: CONSOLE issued server command: /bc score con k ?'
+pariah: '&8[&fPariah&8]'
+slave: '&8[&aSlave&8]'
+citizen: '&8[&eCitizen&8&]'
+co_owner: '&8[Co-Owner&8]'
+Helper: '&8[&6Helper&8]'
+Owner: '&8[&4PADB&8]'
+Builder: '&8[&4Builder&8]'
+Guard: '&8[&bGuard&8]'

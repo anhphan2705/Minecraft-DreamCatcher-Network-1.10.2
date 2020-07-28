@@ -1,0 +1,20 @@
+lastAccountName: gachipgamay
+timestamps:
+  login: 1500040604480
+  lastteleport: 1500041199909
+  logout: 1500041264236
+ipAddress: 118.71.140.145
+lastlocation:
+  world: PvPArea
+  x: 818.6707598331028
+  y: 21.0
+  z: 380.6732221720405
+  yaw: 69.44821
+  pitch: 22.049915
+logoutlocation:
+  world: spawn
+  x: 8.103292800384496
+  y: 97.0
+  z: -1.3057708144187925
+  yaw: 143.55669
+  pitch: -0.75000256

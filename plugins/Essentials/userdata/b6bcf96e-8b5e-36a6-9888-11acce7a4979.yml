@@ -1,0 +1,24 @@
+lastAccountName: 9m0m
+timestamps:
+  login: 1500946934892
+  kits:
+    pariah: 1500166216460
+    food: 1500946985676
+  lastteleport: 1500947040082
+  logout: 1500947461304
+ipAddress: 118.68.118.9
+lastlocation:
+  world: PvPArea
+  x: 797.7786468349898
+  y: 21.0
+  z: 338.77436054916984
+  yaw: 269.09903
+  pitch: 8.549928
+money: '100'
+logoutlocation:
+  world: spawn
+  x: 31.62744262902178
+  y: 97.0
+  z: -17.299621304647225
+  yaw: -316.3434
+  pitch: 17.24996

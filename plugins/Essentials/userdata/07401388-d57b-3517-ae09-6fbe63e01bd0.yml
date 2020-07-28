@@ -1,0 +1,22 @@
+lastAccountName: CLGTFUCKYOU
+timestamps:
+  login: 1500903254278
+  logout: 1500903359934
+  lastteleport: 1500903296458
+  jail: 0
+ipAddress: 113.176.240.168
+lastlocation:
+  world: spawn
+  x: 32.50172108377563
+  y: 101.0
+  z: 4.435818922779413
+  yaw: -4.7939453
+  pitch: 4.949995
+logoutlocation:
+  world: dungeon
+  x: 15.991661697844647
+  y: 104.0625
+  z: -128.50221159192074
+  yaw: 46.960213
+  pitch: 38.549965
+jailed: false

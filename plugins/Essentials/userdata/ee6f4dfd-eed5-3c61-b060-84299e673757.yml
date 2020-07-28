@@ -1,0 +1,37 @@
+lastAccountName: Heinyken
+timestamps:
+  login: 1501044560588
+  kits:
+    pariah: 1500603487101
+    food: 1501042307084
+  lastteleport: 1501043927178
+  logout: 1501046529988
+  jail: 0
+  mute: 0
+ipAddress: 113.188.80.16
+lastlocation:
+  world: PvPArea
+  x: 830.9886746033802
+  y: 21.5
+  z: 364.05000001192093
+  yaw: -99.73918
+  pitch: 23.849918
+logoutlocation:
+  world: world
+  x: 24377.62004482693
+  y: 57.0
+  z: 24487.453888834785
+  yaw: 55.776825
+  pitch: 0.7500041
+money: '317001.510000000005717'
+homes:
+  home:
+    world: world
+    x: 24977.384092245353
+    y: 64.0
+    z: 24984.411752325308
+    yaw: 138.50478
+    pitch: 10.341045
+teleportenabled: true
+jailed: false
+muted: false

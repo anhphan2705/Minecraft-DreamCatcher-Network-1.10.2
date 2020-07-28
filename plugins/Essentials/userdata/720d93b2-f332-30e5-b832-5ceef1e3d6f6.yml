@@ -1,0 +1,24 @@
+lastAccountName: Dhunters
+timestamps:
+  login: 1500948778155
+  kits:
+    pariah: 1500948271108
+    food: 1500948263139
+  lastteleport: 1500950521963
+  logout: 1500950617617
+ipAddress: 115.74.25.196
+lastlocation:
+  world: dungeon
+  x: 27.699999988079067
+  y: 102.0
+  z: -123.23750001192093
+  yaw: -195.2309
+  pitch: 20.011536
+logoutlocation:
+  world: spawn
+  x: 8.155053342899656
+  y: 97.0
+  z: -2.443543809014938
+  yaw: 2.2565887
+  pitch: 4.500009
+money: '50270.14'

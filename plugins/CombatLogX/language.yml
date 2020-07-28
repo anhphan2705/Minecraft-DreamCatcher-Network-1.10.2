@@ -1,0 +1,25 @@
+prefix: '&e[&fCombatLog&e] &f'
+action bar: '&3Combat &7>> &4{time_left} seconds'
+boss bar: '&3Combat &7>> &c{time_left} seconds'
+reload config: Reloaded 'combat.yml' and 'language.yml'
+combat:
+  target:
+    player: '{attacker} đã đập bạn, bây giờ bạn đang trong chế độ PvP.'
+    entity: You were attacked by a mob named {attacker}! You are now in combat.
+  attack:
+    player: Bạn đập {target}! Đang trong chế độ PvP!
+    entity: You attacked a mob named {target}! You are now in combat!
+  expire: Đã hết chế độ PvP!
+  open inventory: You cannot open storage blocks during combat!
+  blocked command: '&eBạn không được dùng lệnh &c/{command}&e khi PvP!'
+  no entry: You cannot enter a safe-zone while you are in combat!
+  in: Bạn vẫn đang trong chế độ PvP, còn {time_left} giây nữa
+  out: You are not in combat!
+  fail: That person is in a No-PvP area!
+  quit: '{player} phải ngồi đập đá vì thoát ra khi PvP!'
+scoreboard:
+  title: '&2CombatLogX'
+  list:
+  - 'Time Left: {time_left}'
+  - 'Enemy: {enemy_name}'
+  - 'Enemy Health: {enemy_health}'

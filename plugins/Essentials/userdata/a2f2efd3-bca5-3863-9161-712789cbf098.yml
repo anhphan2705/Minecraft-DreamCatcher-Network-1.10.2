@@ -1,0 +1,43 @@
+lastAccountName: blacksniper2705
+timestamps:
+  login: 1501037637346
+  logout: 1501043628539
+  lastteleport: 1501043384940
+  kits:
+    slave: 1500101442050
+    senator: 1500643196960
+    op: 1499178380951
+    citizen: 1500782820284
+    firework: 1499133308988
+    pariah: 1501041976712
+    politician: 1500892908342
+    governor: 1500979645573
+ipAddress: 115.72.13.198
+logoutlocation:
+  world: dungeon
+  x: 53.414713300501894
+  y: 165.67152731627033
+  z: -193.343727072546
+  yaw: -42.15143
+  pitch: 30.900023
+lastlocation:
+  world: spawn
+  x: 10.946242390736531
+  y: 97.0
+  z: -2.6656831064856448
+  yaw: -94.6434
+  pitch: -7.7999864
+afk: false
+powertools: {}
+nickname: BeBlackCute
+money: '256300.410000000000003'
+homes:
+  home:
+    world: PvPArea
+    x: 842.6150995914064
+    y: 20.09375
+    z: 415.6412315658791
+    yaw: -89.1004
+    pitch: 80.85001
+teleportenabled: true
+godmode: false

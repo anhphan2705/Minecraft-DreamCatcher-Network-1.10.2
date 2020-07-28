@@ -1,0 +1,31 @@
+lastAccountName: JdogGaming1
+timestamps:
+  login: 1500049347340
+  logout: 1500049179376
+  lastteleport: 1500055133734
+  kits:
+    pariah: 1500046651768
+ipAddress: 118.71.140.145
+lastlocation:
+  world: spawn
+  x: 9.304759589752836
+  y: 97.0
+  z: -2.5432368398620224
+  yaw: -95.2433
+  pitch: -9.299984
+logoutlocation:
+  world: spawn
+  x: -4.9909958866193485
+  y: 118.0
+  z: 21.448503375915635
+  yaw: -3.4545975
+  pitch: 61.200058
+money: '1100.0'
+homes:
+  home:
+    world: world
+    x: 36.61701540460787
+    y: 22.0
+    z: -1281.5867953916888
+    yaw: -141.18794
+    pitch: -41.99999

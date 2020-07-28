@@ -1,0 +1,48 @@
+vault99:
+  '31': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"amount":64,"meta":{"skull-owner":"zebra","==":"ItemMeta","meta-type":"SKULL","internal":"H4sIAAAAAAAAAE2RyY6jWBBFqVKXlJXqz+idlUpGA4tcYLBJnnnM847h2QwPjLEZv6k/sl273saJGzqh+04Q78TfbjNibA23S4XRG/FTK4h/2DwlL1TGf2QsdflgRZr+EDKe+SBZnsoySiARQu/E+yvUo+FZocdv4u2Jluc4oMc7QRA/3ojfbnXt0j+Tn/+CA55YuBt9Tw3b1DIMAXlxsbAY8KsxNCNzN9JQcwvJXRWjBU9l+rYl6eYHbrw2ieqivTqTbqA9xeUJptD3T4zON03s5LNTFZp7FJIdN4/KaG+TqF5CXYmuF2tv2oUuq882WNrL0XQuRaeaoQbp4dBczSL1tq23EY0YcFNaa5mWJ4Sfu9TX/dD0TlHoChtHP3xVLsi9L1S4tXeekkXiuFOO56P39LFinl3Xu9fSyXg0vZSIuWbYslv4m8Gej2kSMFkIirsO19Zcr4e8kWpnnqGXnBZOZ4OxlZypJ/cp1qjVjzK5fOriGtp57d2uIMGhdWr6aBqRg1Us79E9ZrKTM13t7ZD3YV1bZ5pfSr/rV2HU4ExpnzPexF0yZRkAyaAn/GDUa2Wd5zPyzrjszhnS9ue+bAX1oE6P5+2BZdOghIfF6eH00GMUmKQrwDC/xw62+aJJRWYQSnqto/t6yXmr4U+JybsXM6c28qrtrvcRGLjjVQoPPE31azrBZYro78PW7S2VDIaldNBUojC833NWRtSCAZAtSaCVwuFvcUYhKtFYZi51eJJdQ9118mnS0KeldD13sHqnx0NZH1dzOM07UySpbrrd56ySt6UWFd8ZdjN7pen70YOtM01RuMoHVYjPr+7VOlKdz+XqNWbaNkULhID2d58LcM+tU87nNToo33ZaO0AWqcDhNw4JX2/EryDFI/rhoRWQaUjhnHHKLJIqsz5SUJFWw7vScIs3U8kfWndYMzrpMzUAiazttdqpY+/QwlBj4tpektrmYK2xcZ1vULEZGIIKetc5CQOsVXOVf4MpafEj8bkyC/3KrMA+CcEau9rrttEnNFcW38GaBADnUdDnbdBodU/mXYB1GZBJVJJF9GKrtn/5ei6JzRfntS5Ysz8+7Yt/S3t9Ff+3yz3TkMMxA8qks8esDUidcTD6dqi89SfDi5fEg6upxtzLn4FbgE2vaKAXYEhDzvAk2qg1Ot7KEm6n1z+nylRiJg59LmlfOaVo4tYnoQdqU5HY2Is3raPEi/31RRBvxF9G2iLi14ayISWI/wAhmKxZhAQAAA=="},"type":"SKULL_ITEM"}'
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":63,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§b---------------","§e
+    vật phẩm chỉ mua dc khi §6§l DOnate","§4 vật phẩm hiếm tránh làm mất"],"display-name":"§c§lvàng
+    §e§lDonate"},"type":"GOLD_NUGGET"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":4,"PROTECTION_ENVIRONMENTAL":5},"display-name":"§d§l
+    MŨ MA ÁM"},"type":"DIAMOND_HELMET"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§b----------------","§fĐược
+    làm bằng §e10 thỏi vàng donate","§4Hãy giữ nó cẩn thận, tránh làm mất :|"],"display-name":"§ax10
+    §cDonated §eGold"},"type":"GOLD_INGOT"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§b----------------","§fĐược
+    làm bằng §e10 thỏi vàng donate","§4Hãy giữ nó cẩn thận, tránh làm mất :|"],"display-name":"§ax10
+    §cDonated §eGold"},"type":"GOLD_INGOT"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§b----------------","§fVật
+    phẩm có thể mua trên §eShop Xu","§4Hãy giữ nó cẩn thận, tránh làm mất :|"],"display-name":"§cDonated
+    §eGold"},"type":"GOLD_NUGGET"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","amount":63,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","display-name":"§ax10
+    §cDonated §eGold"},"type":"GOLD_INGOT"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§b----------------","§fVật
+    phẩm có thể mua trên §eShop Xu","§4Hãy giữ nó cẩn thận, tránh làm mất :|"],"display-name":"§cDonated
+    §eGold"},"type":"GOLD_NUGGET"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":6,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§b----------------","§fĐược
+    làm bằng §e10 thỏi vàng donate","§4Hãy giữ nó cẩn thận, tránh làm mất :|"],"display-name":"§ax10
+    §cDonated §eGold"},"type":"GOLD_INGOT"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","amount":24,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§b----------------","§fVật
+    phẩm có thể mua trên §eShop Xu","§4Hãy giữ nó cẩn thận, tránh làm mất :|"],"display-name":"§cDonated
+    §eGold"},"type":"GOLD_NUGGET"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"LOOT_BONUS_MOBS":3,"DAMAGE_ALL":5,"FIRE_ASPECT":2},"display-name":"§bBlueBerry
+    §fSword"},"type":"DIAMOND_SWORD"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§2-----------------------------","§eKhung
+    ghép §7Spawner và §6Nòng Cốt §7Spawner","§7là vật liệu để trao đổi Spawner ở warp
+    Trade !"],"display-name":"§eDuy Bình"},"type":"MAGMA_CREAM"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10},"lore":["§b----------------","§fĐược
+    làm bằng §e10 thỏi vàng donate","§4Hãy giữ nó cẩn thận, tránh làm mất :|"],"display-name":"§ax10
+    §cDonated §eGold"},"type":"GOLD_INGOT"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","damage":38,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"KNOCKBACK":10,"DAMAGE_ALL":10},"lore":["§7DoubleDamage
+    X","§7Execute X","§7FeedMe X","§7Cursed X","§7Rage X","§7FastTurn X","§7Blessed
+    X","§7Paralyze X","§7Rekt X","§7LifeSteal X","§7Dizzy X","§7Snare X","§7Vampire
+    X","§7Disarmer 10000","§2Citizen §fKit Item"],"display-name":"§d§lPhan Anh §e§lDuy
+    Bình"},"type":"DIAMOND_AXE"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","damage":68,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"KNOCKBACK":5,"ARROW_FIRE":1,"ARROW_DAMAGE":5,"ARROW_INFINITE":1},"lore":["§7Boom
+    V","§7MultiArrow X","§7Lightning V","§2Citizen §fKit Item"],"display-name":"§d§lPhan
+    Anh §e§lDuy Bình"},"type":"BOW"}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"amount":58,"meta":{"skull-owner":"blacksniper2705","==":"ItemMeta","meta-type":"SKULL","internal":"H4sIAAAAAAAAAE2Uya6jVgBE6VYivX6KlJ/Iznoyl8GGRS9sMJMZzAxX2QBmuJfBxoAxfFN/ZNy7bEunqlSb+iSIT+Ivt56a5vK4FajJP4jv6pX4J6EKKi+u9FeaJewXze3oLx7swNceUHuOz9KC5LlP4vNtuuePEeXDD+JjzF/j9MiHT4Igvn0QP1xUdslv5fsvU8N1Zxr18BpwOvBBNlfyeTDPhsLv7319Ew9o8PeLkkxbv2OaAfWBDV4hnVHMceM5cmEKMedcGu+ykAh3kidx/O5S06oSa+ZOgayZMWkvgq1VSmPqaONMh6yxEdxsd3jpmCq0CqbLeoPHrhzgltSFVJwTcsfkvXBgZzDG7mZ6MI8zbcqVHVVJeWDoFarHTmCk/a0cZ7Xzr8c2R/SmW7McZ53Y4mTTyqmvyofTZuC0c91oWHz4IRKq8jFs3I003MeBCnZ7XXiPWBcRxhqNLCAd8WnkZDtcxqx/Yh84K0/rU1uo7nGcearBfKY/GH/jNjYVgni0c1cves4D8MEwDK+nvExuX3Y0oM5ebOpJPs+2V+gHlAOyuJ8iqRi0Ah30FaxOWIqhHe6zucwNKX8eEzsE47YlQW7T+KzeTnsj0JdwPDJ6461YFEAXlVTVGNWlgVOm9kkXxKBVgNyy+em8n9gTfT4oMtyJx+YZvIJk3vInuRKdnZlDJIUpfuSteSfFO43RXTF9isp7imF9xomgOXKxC/OawhdRLgDwmjunkdjrdwKU96dGzOH21THcrLJs6fbcTTrUg/hM9oKnrqqFnoXUw+R1zzlSVsLErmvnnpNUYaSO207KQp/CKEqi8ybKcBuEuWgqDde7W6acuiEoRwuwhSLh/mSg8rIdgWqdIllzYdxad7EQGNr++UH8GSTNlH/7N180MglBk9FOlUYHZOETMMTDYnoxaXnlYoj2oHbHJaXgPZUDDQrqTsVBbXlXZIg1CVv7zThtvGqVJUsYehBbodQYYsnGnrGoaEaZoj1h2wzQZ6s09JGFNJS+2YQ2pyQ6NhlWaUP0kS5oaxJepzhyQNYGLowkkERa87vzqmgAujO6ygFzVYIFRgayugH55Kh5SN29d7w98+/s21VxZgtxz/+xUxo2EwzNJQ4hqbdscxV4EkYVeX3n62u8WqHBxKv6MvGJNCmzhqEPDJwxb74x1gbFrbHGVEzGrQrMNkBG6yBDjlmjlZCJVcrEFTLCmDTxtY4XjS8i8idBfBB/mEmbE3+nTZLVQ4feT0LtSZYg/gN9p5FjlgQAAA=="},"type":"SKULL_ITEM"}'
+vault2:
+  '27': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COMMAND"}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"amount":63,"meta":{"skull-owner":"zebra","==":"ItemMeta","meta-type":"SKULL","internal":"H4sIAAAAAAAAAE2RyY6jWBBFqVKXlJXqz+idlUpGA4tcYLBJnnnM847h2QwPjLEZv6k/sl273saJGzqh+04Q78TfbjNibA23S4XRG/FTK4h/2DwlL1TGf2QsdflgRZr+EDKe+SBZnsoySiARQu/E+yvUo+FZocdv4u2Jluc4oMc7QRA/3ojfbnXt0j+Tn/+CA55YuBt9Tw3b1DIMAXlxsbAY8KsxNCNzN9JQcwvJXRWjBU9l+rYl6eYHbrw2ieqivTqTbqA9xeUJptD3T4zON03s5LNTFZp7FJIdN4/KaG+TqF5CXYmuF2tv2oUuq882WNrL0XQuRaeaoQbp4dBczSL1tq23EY0YcFNaa5mWJ4Sfu9TX/dD0TlHoChtHP3xVLsi9L1S4tXeekkXiuFOO56P39LFinl3Xu9fSyXg0vZSIuWbYslv4m8Gej2kSMFkIirsO19Zcr4e8kWpnnqGXnBZOZ4OxlZypJ/cp1qjVjzK5fOriGtp57d2uIMGhdWr6aBqRg1Us79E9ZrKTM13t7ZD3YV1bZ5pfSr/rV2HU4ExpnzPexF0yZRkAyaAn/GDUa2Wd5zPyzrjszhnS9ue+bAX1oE6P5+2BZdOghIfF6eH00GMUmKQrwDC/xw62+aJJRWYQSnqto/t6yXmr4U+JybsXM6c28qrtrvcRGLjjVQoPPE31azrBZYro78PW7S2VDIaldNBUojC833NWRtSCAZAtSaCVwuFvcUYhKtFYZi51eJJdQ9118mnS0KeldD13sHqnx0NZH1dzOM07UySpbrrd56ySt6UWFd8ZdjN7pen70YOtM01RuMoHVYjPr+7VOlKdz+XqNWbaNkULhID2d58LcM+tU87nNToo33ZaO0AWqcDhNw4JX2/EryDFI/rhoRWQaUjhnHHKLJIqsz5SUJFWw7vScIs3U8kfWndYMzrpMzUAiazttdqpY+/QwlBj4tpektrmYK2xcZ1vULEZGIIKetc5CQOsVXOVf4MpafEj8bkyC/3KrMA+CcEau9rrttEnNFcW38GaBADnUdDnbdBodU/mXYB1GZBJVJJF9GKrtn/5ei6JzRfntS5Ysz8+7Yt/S3t9Ff+3yz3TkMMxA8qks8esDUidcTD6dqi89SfDi5fEg6upxtzLn4FbgE2vaKAXYEhDzvAk2qg1Ot7KEm6n1z+nylRiJg59LmlfOaVo4tYnoQdqU5HY2Is3raPEi/31RRBvxF9G2iLi14ayISWI/wAhmKxZhAQAAA=="},"type":"SKULL_ITEM"}'

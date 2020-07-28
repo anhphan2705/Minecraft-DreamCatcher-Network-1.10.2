@@ -1,0 +1,57 @@
+Mode: Vippay
+Baokim:
+  HTTP_USERNAME: ''
+  HTTP_PASSWORD: ''
+  API_USERNAME: ''
+  API_PASSWORD: ''
+  SECURE_CODE: ''
+  MERCHANT_ID: ''
+Vippay:
+  API_USER: 2a48457896b14f92ba19e791f634d725
+  API_PASSWORD: a8a0111f2721402cb3ceae585b6975a5
+  MERCHANT_ID: '9962'
+Card:
+  VINA: true
+  MOBI: true
+  VIETEL: true
+  VTC: false
+  VNM: true
+  GATE: true
+Prize:
+  '10':
+  - p give {player} 10
+  '20':
+  - p give {player} 20
+  '50':
+  - p give {player} 50
+  '100':
+  - p give {player} 100
+  '200':
+  - p give {player} 200
+  '500':
+  - p give {player} 500
+Log:
+  theSai: true
+  theDung: true
+Top:
+  enable: true
+  number: 10
+Message:
+  VINA: VinaPhone
+  MOBI: MobiPhone
+  VIETEL: Viettel
+  VTC: VTC
+  VNM: VietNamMobile
+  GATE: Gate
+  hover: Nhan vao day de tiep tuc
+  choose: '&cChon loai the'
+  seri: '&cHay nhap so seri'
+  enteredSeri: 'Ban da nhap SERI: {value}'
+  pin: '&cHay nhap so pin'
+  enteredPin: 'Ban da nhap PIN: {value}'
+  success: '&aDa nap thanh cong {value} VND'
+  noPerm: Ban khong co quyen nay
+  error: '&cLoi: {value}'
+  calculateTop: Dang tinh toan bang Top...
+  topMessage: Danh sach Top
+  topPlayer: '{player}: {value}'

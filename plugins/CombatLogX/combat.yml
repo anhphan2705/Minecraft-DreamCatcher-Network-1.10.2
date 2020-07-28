@@ -1,0 +1,66 @@
+options:
+  check for updates: true
+  disabled worlds:
+  - spawn
+  - Jail
+  - Dungeon
+  - Deathrun
+  - PvPArea
+  combat timer: 5
+  action bar: true
+  boss bar: true
+  score board: false
+  self combat: true
+  mobs:
+    combat: false
+    blacklist:
+    - PIG
+    - COW
+  bypass:
+    enable: false
+    permission: combatlogx.bypass
+  combat sudo:
+    enable: false
+    commands:
+    - say I am now in combat
+cheat prevention:
+  prevent opening inventories: false
+  no safezone entry: false
+  flight:
+    disable: false
+    re-enable after combat: false
+  change gamemode:
+    enabled: false
+    mode: SURVIVAL
+  blocked commands:
+    whitelist mode: false
+    commands:
+    - fly
+    - tpa
+    - tpahere
+    - spawn
+    - home
+    - f
+    - pv
+    - ec
+    - health
+  blocked potions:
+  - INVISIBILITY
+  - INCREASE_DAMAGE
+punishment:
+  kill loggers: true
+  kick: false
+  quit:
+    enable: true
+    message: true
+  console:
+    enable: true
+    commands:
+    - say {player} là thằng gà, log out khi dag PvP
+    - eco take {player} 1000
+    - mail send {player} Bạn mất 1000$ và ngồi đập đá 1 ngày vì thoát ra khi PvP!
+    - jail {player} normal_1 1d
+  sudo loggers:
+    enable: false
+    commands:
+    - say Tui là thằng gà, log out khi dag PvP

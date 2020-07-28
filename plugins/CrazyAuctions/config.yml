@@ -1,0 +1,297 @@
+Settings:
+  Prefix: '&7[&aAH&7]: ' #Prefix of when you get Crazy Auctions Messages.
+  GUIName: '&4Auction &bHouse&8' #Name of the Main GUI.
+  Players-Current-Items: '&8Món đồ đang bán' #The Name of the Player Current Items GUI.
+  Cancelled/Expired-Items: '&8Đồ huỷ/hết hạn' #Name of the Cancelled/Expired GUI.
+  Buying-Item: '&8Mua hàng: Bạn có chắc không?' #Name of the Buying GUI.
+  Bidding-On-Item: '&8Bạn đang đấu giá cho vật phẩm này.' #Name of the Budding GUI.
+  Categories: '&8Thể loại' #Name of the Category GUI.
+  Sell-Time: 2d #The time that each item will sell for.
+  Bid-Time: 2m 30s #Time for each item that is biddable.
+  Full-Expire-Time: 10d #The full time the item is in the crazy auctions.
+  Bid-Winner-Time: 20d #The time the winner of a bid has to claim there prize.
+  Minimum-Sell-Price: 1 #Minimum amount you can sell a item for.
+  Max-Beginning-Sell-Price: 100000000 #Max amount you can sell a item for.
+  Minimum-Bid-Price: 100 #Minimum starting bid.
+  Max-Beginning-Bid-Price: 10000000 #Maximum starting bid.
+  Allow-Damaged-Items: False #Allow items that have been damaged.
+  Category-Page-Opens-First: False #If set to true the categories page will open when they do /CA.
+  Sounds:
+    Toggle: False #Disable the clicking sound.
+    Sound: 'CLICK' #Make sure if you use 1.8 or lower you use the 1.8 sound and 1.9 and up use 1.9 sounds. The default sound is 1.8.
+    #1.8 sounds are found here: http://docs.codelanx.com/Bukkit/1.8/org/bukkit/Sound.html
+    #1.9 sounds are found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+  GUISettings: #Settings for things in the gui.
+    SellingItemLore: #The lore on items that are being sold.
+      - '&7-------------------------'
+      - '&aMua vật phẩm.'
+      - ''
+      - '&9Giá: &e$%Price%'
+      - '&9Người bán: &e%Seller%'
+      - '&7-------------------------'
+    CurrentLore: #Lore on items that are in your current items GUI.
+      - '&7-------------------------'
+      - '&aNhấn để huỷ bán.'
+      - ''
+      - '&9Giá: &e$%Price%'
+      - '&9Hạn rao bán: &e%Time%'
+      - '&7-------------------------'
+    Cancelled/ExpiredLore: #Lore on items that are in your cancelled/expired GUI.
+      - '&7-------------------------'
+      - '&aNhấn để lấy vật phẩm.'
+      - ''
+      - '&9Thời hạn: &e%Time%'
+      - '&7-------------------------'
+    Bidding: #Lore on Bidding Items.
+      - '&7-------------------------'
+      - '&aNhấn để đấu giá vật phẩm..'
+      - ''
+      - '&9Người bán: &e%Seller%'
+      - '&9Giá đấu hiện tại: &e$%TopBid%'
+      - '&9Người đấu giá cao nhất: &e%TopBidder%'
+      - '&9Thời gian còn lại: &e%Time%'
+      - '&7-------------------------'
+    Category-Settings:
+      Armor:
+        Item: '315'
+        Toggle: true
+        Slot: 11
+        Name: '&6&lGiáp'
+        Lore:
+          - '&7Đây là nơi rao'
+          - '&7bán tất cả các loại giáp.'
+      Weapons:
+        Item: '283'
+        Toggle: true
+        Slot: 12
+        Name: '&6&lVũ khí'
+        Lore:
+          - '&7Đây là nơi rao'
+          - '&7bán tất cả các loại vũ khí'
+      Tools:
+        Item: '285'
+        Toggle: true
+        Slot: 13
+        Name: '&6&lDụng cụ'
+        Lore:
+          - '&7Đây là nơi rao'
+          - '&7bán tất cả các loại dụng cụ.'
+      Food:
+        Item: '322'
+        Toggle: true
+        Slot: 14
+        Name: '&6&lThức ăn'
+        Lore:
+          - '&7Đây là nơi rao'
+          - '&7bán tất cả các loại thức ăn.'
+      Potions:
+        Item: '373:8227'
+        Toggle: true
+        Slot: 15
+        Name: '&6&lThuốc'
+        Lore:
+          - '&7Đây là nơi rao'
+          - '&7bán tất cả các loại thuốc.'
+      Blocks:
+        Item: '2'
+        Toggle: true
+        Slot: 16
+        Name: '&6&lBlocks'
+        Lore:
+          - '&7Đây là nơi rao'
+          - '&7bán tất cả các loại khối.'
+      Other:
+        Item: '371'
+        Toggle: true
+        Slot: 17
+        Name: '&6&lKhác'
+        Lore:
+          - '&7Đây là nơi rao'
+          - '&7bán tất cả các loại vật dụng khác.'
+      None:
+        Item: '166'
+        Toggle: true
+        Slot: 23
+        Name: '&6&lVật dụng'
+        Lore:
+          - '&7Đây là nơi để thấy'
+          - '&7tất cả các vật dụng đang được bán.'
+    OtherSettings: #Other Settings for the GUIs.
+      SellingItems: #The button for your current items.
+        Item: '264' #The item that this button is.
+        Toggle: true #If the item is in the gui or not.
+        Slot: 46 #The slot it is in. I recommend not changing these. If you do make sure they are still in the bottom row.
+        Name: '&6Vật phẩm đang rao' #Name of the item.
+        Lore: #Lore of the item.
+          - '&aNhấn vào để thấy tất cả'
+          - '&acác vật phẩm đang được rao bán.'
+      Cancelled/ExpiredItems: #The button for Cancelled/Expired Items.
+        Item: '394'
+        Toggle: true
+        Slot: 47
+        Name: '&6Đồ huỷ/hết hạn'
+        Lore:
+          - '&aNhấn vào để thấy tất cả'
+          - '&avật dụng bạn đã huỷ bán hoặc hết hạn.'
+      PreviousPage: #The button for Previous Page.
+        Item: '339'
+        Toggle: true
+        Slot: 49
+        Name: '&6Trang Trước'
+        Lore: {}
+      Refesh: #The button for Refresh Page.
+        Item: '175'
+        Toggle: true
+        Slot: 50
+        Name: '&6Làm mới'
+        Lore: {}
+      NextPage: #The button for Next Page.
+        Item: '339'
+        Toggle: true
+        Slot: 51
+        Name: '&6Trang sau'
+        Lore: {}
+      Category1: #The button for Next Page.
+        Item: '54'
+        Toggle: true
+        Slot: 52
+        Name: '&6Thể loại đồ'
+        Lore:
+          - '&bCác thể loại đồ: &6%Category%'
+          - '&aBạn muốn thấy các loại đồ riêng?'
+          - '&aHãy nhấn vô đây để thấy chúng !'
+      Category2: #The button for Next Page.
+        Item: '54'
+        Toggle: true
+        Slot: 48
+        Name: '&6Categories'
+        Lore:
+          - '&bCác thể loại đồ: &6%Category%'
+          - '&aBạn muốn thấy các loại đồ riêng?'
+          - '&aHãy nhấn vô đây để thấy chúng !'
+      Bidding/Selling: #Switch between Bidding and Selling.
+        Selling:
+          Item: '341'
+          Toggle: true
+          Slot: 53
+          Name: '&6Vật phẩm được rao bán ở hiện tại.'
+          Lore:
+            - '&7&l(&6&l!&7&l) &7Nhấn vào để thấy vật phẩm'
+            - '&7mà bạn đang đấu giá.'
+        Bidding:
+          Item: '378'
+          Toggle: true
+          Slot: 53
+          Name: '&6Vật phẩm được đấu giá ở hiện tại.'
+          Lore:
+            - '&7&l(&6&l!&7&l) &7Nhấn dể thấy'
+            - '&7vật phẩm bạn có thể mua.'
+      WhatIsThis: #The info on all the Books buttons.
+        SellingShop: #The Book in the main shop.
+          Item: '340'
+          Toggle: true
+          Slot: 54
+          Name: '&6Đây là trang gì?'
+          Lore:
+            - '&aĐây là nơi rao bán'
+            - '&avà mua các vật phẩm mà'
+            - '&acác người chơi khác đang rao bán.'
+            - ''
+            - '&aĐây cũng là nơi bạn có thể kiếm tiền'
+            - '&abằng cách rao bán các vật phẩm và'
+            - '&ađợi các người chơi khác mua.'
+        BiddingShop: #The Book in the main shop.
+          Item: '340'
+          Toggle: true
+          Slot: 54
+          Name: '&6Đây là trang gì?'
+          Lore:
+            - '&aĐây là nơi đấu giá'
+            - '&avà mua bằng cách đấu giá cao mà'
+            - '&acác người chơi khác đặt giá đấu.'
+            - ''
+            - '&aĐây cũng là nơi bạn có thể kiếm tiền'
+            - '&abằng cách đặt giá các vật phẩm và'
+            - '&ađợi các người chơi khác đấu giá và mua.'
+        CurrentItems: #The Book in the Current items GUI.
+          Item: '340'
+          Toggle: true
+          Slot: 54
+          Name: '&6Đây là trang gì?'
+          Lore:
+            - '&aĐây là nơi quản lí'
+            - '&acác vật phẩm mà bạn rao bán'
+            - ''
+            - '&aBạn có thể huỷ bán và xem'
+            - '&athời gian hết hạn của các món dồ.'
+        Cancelled/ExpiredItems: #The Book in the Cancelled/Expired Items GUI.
+          Item: '340'
+          Toggle: true
+          Slot: 54
+          Name: '&6Đây là trang gì?'
+          Lore:
+            - '&aĐây là nơi quản lí và nhận'
+            - '&acác món đồ đã hết hạn rao '
+            - '&ahoặc đã huỷ bán của bạn'
+            - ''
+            - '&aJNhấn vào để nhận'
+            - '&7&l(&6&l!&7&l) &aTúi đồ cần đủ khoảng trống.'
+        Viewing: #The Book in the Viewing Items GUI.
+          Item: '340'
+          Toggle: true
+          Slot: 50
+          Name: '&6Đây là trang gì?'
+          Lore:
+            - '&aĐây là nơi xem các '
+            - '&avật phẩm đang được đấu giá'
+        Categories: #The Book in the Viewing Items GUI.
+          Item: '340'
+          Toggle: true
+          Slot: 54
+          Name: '&6Đây là trang gì?'
+          Lore:
+            - '&aĐây là nơi hiển thị các danh mục'
+            - '&amà bạn có thể lựa chọn khi bạn nhấn vào'
+      Back: #The Back Buttons.
+        Item: '339'
+        Slot: 46
+        Name: '&6Quay lại'
+      Return: #The Return Buttons.
+        Item: '390'
+        Slot: 50
+        Name: '&6Hoàn trả'
+        Lore:
+          - '&aNhấn vào để nhận các vật phẩm'
+          - '&amà bạn đã huỷ rao bán hoặc hết hạn.'
+      Confirm: #The Confirm Buttons.
+        Item: '160:5'
+        Name: '&aChấp nhận'
+      Cancel: #The Cancel Buttons.
+        Item: '160:14'
+        Name: '&cHuỷ'
+      Your-Item: #The item that shows when you try to buy/bid on your item.
+        Item: '166'
+        Name: '&cBạn không thể mua đồ của chính mình.'
+      Cant-Afford: #The item that shows when you cant afford this item.
+        Item: '166'
+        Name: '&cBạn không đủ tiền mua.'
+      Top-Bidder: #The item for when a player is already the top bidder.
+        Item: '166'
+        Name: '&cBạn là người đấu giá cao nhất.'
+      Bidding: #The item in the middle when bidding on an item.
+        Item: '160:15'
+        Name: '&7Đấu giá'
+        Lore:
+          - '&7<--&aThêm &cHuỷ&7-->'
+          - '&9Giá đấu của bạn: &e$%Bid%'
+          - '&9Giá đấu cao nhất: &e$%TopBid%'
+      Bid: #The button for when you want to confirm your bid.
+        Item: '160:3'
+        Name: '&bĐấu giá'
+        Lore:
+          - '&7Nhấn để đấu giá.'
+  BlackList:
+    - '7'
+    - '120'
+    - '137'
+    - '166'

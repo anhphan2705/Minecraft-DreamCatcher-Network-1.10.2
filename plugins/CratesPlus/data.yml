@@ -1,0 +1,13 @@
+Data Version: 2
+Crate Locations:
+  common: []
+  '&f&lmilk':
+  - spawn|27|101|24
+  '&e&lbutter': []
+  milk:
+  - spawn|27|101|24
+  - spawn|27|101|24
+  butter:
+  - spawn|23|101|20
+  blueberry:
+  - spawn|31|101|16

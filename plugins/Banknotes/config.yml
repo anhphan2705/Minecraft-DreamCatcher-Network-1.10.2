@@ -1,0 +1,36 @@
+# Banknotes by SainttX
+# WARNING: If your users have notes and you modify this,
+#          their notes will be invalid and not registered by the plugin anymore
+note:
+  material: PAPER
+  data: 0
+  name: "&6Chi phiếu"
+  lore:
+  - '&9Miscellaneous'  
+  - "&fMệnh giá&a $[money]"
+  - "&cThuộc ngân hàng &eDreamCatcher"
+
+messages:
+  insufficient-funds: "Bạn không có đủ để rút chừng ấy tiền"
+  insufficient-permissions: "You do not have enough permissions"
+  inventory-full: "Túi bạn đã đầy"
+  invalid-note: "This banknote is invalid! It has been removed from your inventory"
+  invalid-number: "You provided an invalid number"
+  note-created: "Bạn đã rút tiền với mệnh giá&a $[money]"
+  note-given: "Bạn đã chuyển &a $[money]&f vào tài khoản ngân hàng của [player]"
+  note-received: "&a $[money]&f đã được chuyển vào tài khoản ngân hàng của bạn bởi [player]"
+  note-redeemed: "Đã thêm&a $[money]&f vào tài khoản ngân hàng của bạn"
+  nothing-in-hand: "không có tiền để chuyển vào tài khoản"
+  less-than-minimum: "The amount you entered is less than the minimum allowed amount of $[money]"
+  more-than-maximum: "The amount you entered is more than the maximum allowed amount of $[money]"
+  reloaded: "The Banknotes config.yml has been reloaded"
+  target-not-found: "Không tìm thấy tài khoản ngân hàng đó để chuyển tiền"
+  
+  
+settings:
+  console-name: "&7Server"
+  minimum-float-amount: 0
+  maximum-float-amount: 2
+  minimum-withdraw-amount: 10.0
+  maximum-withdraw-amount: 1000000.0
+  allow-right-click-to-deposit-notes: true

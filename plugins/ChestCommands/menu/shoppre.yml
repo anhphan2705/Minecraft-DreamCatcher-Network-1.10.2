@@ -1,0 +1,91 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&6Shop &ePremium'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 1
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'shoppre'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ' tell: &eBạn đã mở Shop Premium.'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+rank:
+  COMMAND: 'open: rank.yml'
+  NAME: '&dMua Ranks'
+  LORE:
+    - 'Nơi bạn có thể mua rank'
+    - 'Hay xem các chức năng của rank'
+    - 'Rank sau khi mua là vĩnh viễn'
+    - 'Có thể lấy kit của rank cũ khi bạn mua rank mới'
+    - 'Ban cũng có thể dùng lệnh /rank để mở'
+  ID: 120
+  DATA-VALUE: 1
+  ENCHANTMENT: durability, 10
+  POSITION-X: 1
+  POSITION-Y: 1
+
+ce:
+  COMMAND: 'open: ce.yml'
+  NAME: '&5Sách CE'
+  LORE:
+    - 'Nơi bạn có thể mua các sách CE'
+    - 'bằng points donate'
+  ID: enchantedbook
+  DATA-VALUE: 1
+  ENCHANTMENT: durability, 10
+  POSITION-X: 3
+  POSITION-Y: 1
+
+
+stuff:
+  COMMAND: 'open: stuff.yml'
+  NAME: '&6Vật phẩm quý'
+  LORE:
+    - 'Nơi bạn có thể mua vật phẩm'
+    - 'quý bằng points donate'
+  ID: enderchest
+  POSITION-X: 5
+  POSITION-Y: 1
+
+class:
+  COMMAND: 'open: class.yml'
+  NAME: '&2Class'
+  LORE:
+    - 'Nơi bạn có thể mua class'
+    - 'bằng points donate'
+    - 'Class sau khi mua là vĩnh viễn'
+  ID: 0322:1
+  POSITION-X: 7
+  POSITION-Y: 1
+
+unjail:
+  COMMAND: 'open: unjail.yml'
+  NAME: '&fBí kíp đào tẩu'
+  LORE:
+    - 'Nơi bạn có thể mua bí kíp cổ'
+    - 'để thoát tù hay unmute'
+  ID: 47
+  POSITION-X: 9
+  POSITION-Y: 1

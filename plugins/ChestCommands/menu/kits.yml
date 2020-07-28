@@ -1,0 +1,144 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&7Kits &fMenu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'kit'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'tell: &eBạn đã mở Kits Menu.'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+pariah:
+  COMMAND: 'kit Pariah'
+  NAME: '&fKit &7Pariah'
+  LORE:
+    - 'Click để nhận kit Pariah'
+    - 'Kit gồm có:'
+    - 'Giáp Pariah'
+  ID: 160
+  POSITION-X: 2
+  POSITION-Y: 1
+
+slave:
+  COMMAND: 'kit Slave'
+  NAME: '&fKit &aSlave'
+  PERMISSION: 'essentials.kits.Slave'
+  PERMISSION-MESSAGE: '&6Bạn phải mua rank này để lấy kit!'
+  LORE:
+    - 'Click để nhận kit Slave'
+    - 'Kit gồm có:'
+    - 'Giáp Slave'
+    - 'Và được chuyển khoản 5000$'
+  ID: 0160:5
+  POSITION-X: 3
+  POSITION-Y: 1
+
+citizen:
+  COMMAND: 'kit Citizen'
+  NAME: '&fKit &eCitizen'
+  PERMISSION-MESSAGE: '&6Bạn phải mua rank này để lấy kit!'
+  LORE:
+    - 'Click để nhận kit Citizen'
+    - 'Kit gồm có:'
+    - 'Giáp Citizen'
+    - 'Và được chuyển khoản 10000$'
+  ID: 0160:4
+  POSITION-X: 4
+  POSITION-Y: 1
+
+politician:
+  COMMAND: 'kit Politician'
+  NAME: '&fKit &dPolitician'
+  PERMISSION: 'essentials.kits.Politician'
+  PERMISSION-MESSAGE: '&6Bạn phải mua rank này để lấy kit!'
+  LORE:
+    - 'Click để nhận kit Politician'
+    - 'Kit gồm có:'
+    - 'Giáp Politician'
+    - 'Và được chuyển khoản 15000$'
+  ID: 0160:2
+  POSITION-X: 5
+  POSITION-Y: 1
+
+senator:
+  COMMAND: 'kit Senator'
+  NAME: '&fKit &3Senator'
+  PERMISSION: 'essentials.kits.Senator'
+  PERMISSION-MESSAGE: '&6Bạn phải mua rank này để lấy kit!'
+  LORE:
+    - 'Click để nhận kit Senator'
+    - 'Kit gồm có:'
+    - 'Giáp Senator'
+    - 'Và được chuyển khoản 30000$'
+  ID: 0160:11
+  POSITION-X: 6
+  POSITION-Y: 1
+
+governor:
+  COMMAND: 'kit Governor'
+  NAME: '&fKit &cGovernor'
+  PERMISSION: 'essentials.kits.Governor'
+  PERMISSION-MESSAGE: '&6Bạn phải mua rank này để lấy kit!'
+  LORE:
+    - 'Click để nhận kit Governor'
+    - 'Kit gồm có:'
+    - 'Giáp Governor'
+    - 'Và được chuyển khoản 50000$'
+  ID: 0160:14
+  POSITION-X: 7
+  POSITION-Y: 1
+
+more:
+  COMMAND: 'kit'
+  NAME: '&cComming soon'
+  LORE:
+    - 'Comming soon'
+  ID: 0160:1
+  POSITION-X: 8
+  POSITION-Y: 1
+
+food:
+  COMMAND: 'kit food'
+  NAME: '&fKit &6Food'
+  LORE:
+    - 'Click để nhận kit food'
+    - 'Kit gồm có:'
+    - '16 bánh mì'
+    - 'Thời gian nhận kit: &630 phút'
+  ID: chest
+  POSITION-X: 5
+  POSITION-Y: 2
+
+
+menu-close-no-commands-no-lore:
+  COMMAND: 'open: menu.yml'
+  NAME: '&6Quay trở lại Server Menu'
+  ID: barrier
+  LORE:
+    - 'Click để quay lại Server Menu'
+  POSITION-X: 5
+  POSITION-Y: 3

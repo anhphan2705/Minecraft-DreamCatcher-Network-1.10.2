@@ -1,0 +1,57 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","damage":59,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"PROTECTION_ENVIRONMENTAL":1},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fBoots"},"type":"DIAMOND_BOOTS"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"PROTECTION_ENVIRONMENTAL":1},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fBoots"},"type":"DIAMOND_BOOTS"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"ARROW"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DIG_SPEED":2},"lore":["§2Citizen
+    §fKit Item"],"display-name":"§2Citizen §fShovel"},"type":"DIAMOND_PICKAXE"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"DAMAGE_ALL":1},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fAxe"},"type":"DIAMOND_AXE"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"SILK_TOUCH":1}},"type":"ENCHANTED_BOOK"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","internal":"H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3LkpNLUgtYmAAAGXHBBMfAAAA"},"type":"MONSTER_EGG"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":16,"type":"GOLDEN_APPLE"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"DIG_SPEED":1},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fShovel"},"type":"DIAMOND_PICKAXE"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"DIG_SPEED":1},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fShovel"},"type":"DIAMOND_PICKAXE"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQrCMBBEny2UZhH9J6kHb4UKgregIS4NrdgF8e+1EaQXrzPvzQgIm10aL/1+MLXX0UfBdXf/HBpvvqbQK2WrEcc2x+1o4YP6NAmwEqqvuUBLqlPQeLMZmB/cb3xB/fkR1p2mPlfhMRXUIcuHhjO8AX1NZnCxAAAA","display-name":"§ePig
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","damage":36,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"DAMAGE_ALL":1},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fAxe"},"type":"DIAMOND_AXE"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","damage":51,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"PROTECTION_ENVIRONMENTAL":3},"display-name":"§eButter
+    §7Armor"},"type":"DIAMOND_BOOTS"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":32,"type":"GOLD_BLOCK"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","amount":16,"type":"EMERALD_BLOCK"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","amount":8,"type":"GOLDEN_CARROT"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","amount":6,"type":"SLIME_BLOCK"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":10,"type":"REDSTONE_BLOCK"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"STICK"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","amount":32,"type":"GLOWSTONE"}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","damage":22,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"PROTECTION_ENVIRONMENTAL":2},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fBoots"},"type":"DIAMOND_BOOTS"}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DAMAGE_ALL":2},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fSword"},"type":"DIAMOND_SWORD"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội làm","§3kẻ địch bị bối rối.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aKiếm","§48% Phá huỷ","§a87% Thành
+    công"],"display-name":"§eConfusion I"},"type":"ENCHANTED_BOOK"}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DIG_SPEED":2},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fShovel"},"type":"DIAMOND_PICKAXE"}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"ARROW_DAMAGE":2},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fBow"},"type":"BOW"}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DIG_SPEED":2},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fPickaxe"},"type":"DIAMOND_SPADE"}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DAMAGE_ALL":2},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fAxe"},"type":"DIAMOND_AXE"}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"TNT"}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","amount":10,"type":"LAPIS_BLOCK"}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","amount":10,"type":"DIAMOND_BLOCK"}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Đẩy lùi
+    bạn ra để trốn thoát","§3khi bạn ít máu.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§7 - §4Legendary","§6Có thể ép vô: §aỦng","§45% Phá huỷ","§a63% Thành
+    công"],"display-name":"§eRocket I"},"type":"ENCHANTED_BOOK"}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","damage":76,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"PROTECTION_ENVIRONMENTAL":2},"lore":["§aSlave
+    §fKit Item"],"display-name":"§aSlave §fLeggings"},"type":"DIAMOND_LEGGINGS"}'

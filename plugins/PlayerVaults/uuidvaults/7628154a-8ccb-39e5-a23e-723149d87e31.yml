@@ -1,0 +1,66 @@
+vault1:
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"MENDING":1}},"type":"ENCHANTED_BOOK"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":8,"type":"EMERALD"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"FROST_WALKER":1}},"type":"ENCHANTED_BOOK"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","damage":195,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"SILK_TOUCH":1,"DIG_SPEED":1},"lore":["§7Pariah
+    §fKit Item"],"display-name":"7Pariah fShovel","repair-cost":1},"type":"DIAMOND_PICKAXE"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==","display-name":"§eSkeleton
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==","display-name":"§eSkeleton
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"PUMPKIN"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"DAMAGE_ALL":4},"lore":["§7Pariah
+    §fKit Item"],"display-name":"7Pariah fAxe","repair-cost":1},"type":"DIAMOND_AXE"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":32,"type":"COOKED_BEEF"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"PROTECTION_ENVIRONMENTAL":1}},"type":"ENCHANTED_BOOK"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"KNOCKBACK":2}},"type":"ENCHANTED_BOOK"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"OXYGEN":3,"DURABILITY":3,"WATER_WORKER":1,"PROTECTION_ENVIRONMENTAL":3},"repair-cost":1},"type":"DIAMOND_HELMET"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"PROTECTION_ENVIRONMENTAL":2}},"type":"ENCHANTED_BOOK"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"WATER_WORKER":1,"ARROW_KNOCKBACK":1,"THORNS":1}},"type":"ENCHANTED_BOOK"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"IRON_INGOT"}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"PROTECTION_FALL":3}},"type":"ENCHANTED_BOOK"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","amount":46,"type":"IRON_INGOT"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"PROTECTION_ENVIRONMENTAL":4},"lore":["§7Hulk
+    III"],"repair-cost":1},"type":"DIAMOND_CHESTPLATE"}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","amount":9,"type":"NETHER_STALK"}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"DIG_SPEED":4}},"type":"ENCHANTED_BOOK"}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DAMAGE_ALL":3},"display-name":"§aMajor
+    §fAxe §bI"},"type":"DIAMOND_AXE"}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"PROTECTION_ENVIRONMENTAL":4},"lore":["§7BurnShield
+    I"]},"type":"DIAMOND_LEGGINGS"}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==","display-name":"§eSkeleton
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","amount":15,"type":"ARROW"}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","amount":6,"type":"COAL"}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"PROTECTION_ENVIRONMENTAL":4,"DEPTH_STRIDER":3},"repair-cost":3},"type":"DIAMOND_BOOTS"}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"WATER_WORKER":1}},"type":"ENCHANTED_BOOK"}'
+  '49': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '50': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '51': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==","display-name":"§eSkeleton
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '52': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NQQrCMBBFvy2UZBA9jDeQunAnROh6aIcaEhKxA6W310Zw0YXr9/5/BBAO55j7cEnqdbnzSLDuyXNqWdmg8gOMCxJFc4LFsbBbVvn4HCcCsCM03/nWr9F04seHrtbasr/MVv2XJeydj6FweU0VjJSba4sT8Aa1WH5BxQAAAA==","display-name":"§eSkeleton
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '53': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'

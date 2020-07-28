@@ -1,0 +1,10 @@
+persistence: false
+world: both
+world_nether: both
+world_the_end: both
+superbomb: both
+spawn: both
+PvPArea: both
+Deathrun: both
+Jail: both
+dungeon: both

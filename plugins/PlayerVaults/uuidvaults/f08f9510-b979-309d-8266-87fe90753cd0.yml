@@ -1,0 +1,27 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10,"PROTECTION_ENVIRONMENTAL":10,"MENDING":10,"ARROW_INFINITE":1},"lore":["§7Pull
+    X","§7Guards X","§7Nursery X","§7Hulk I","§7SelfDestruct X","§7Savior X","§7Cyborg
+    X","§7HellForged X","§7Venom X","§7Cactus X","§7Drunk I","§7PainGiver X","§7Recover
+    X","§7Voodoo X","§4---------------------","§4§lkiller..."],"display-name":"§c§l
+    áo của §4§l JASON WOORHESS"},"type":"DIAMOND_CHESTPLATE"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10,"PROTECTION_ENVIRONMENTAL":10,"MENDING":10},"lore":["§7Intimidate
+    X","§7Radiant X","§7Molten X","§7Enlightened X","§7Valor X","§7StormCaller X","§7HellForged
+    X","§7SmokeBomb X","§7SandStorm X","§7PainGiver X","§7OverLoad X","§7AcidRain
+    X","§7Blizzard X","§4------------------","§4§lKiller..."],"display-name":"§c§l
+    quần của §4§l JASON WOORHESS"},"type":"DIAMOND_LEGGINGS"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":10,"PROTECTION_ENVIRONMENTAL":10,"MENDING":10},"lore":["§7AntiGravity
+    X","§7Gears X","§7HellForged X","§7OverLoad X","§7Fortify X","§7Rocket X","§7Springs
+    X","§7Freeze X","§4---------------","§4§lKiller...."],"display-name":"§c§l ủng
+    của §4§lJASON VOORHESS"},"type":"DIAMOND_BOOTS"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":62,"meta":{"==":"ItemMeta","meta-type":"SKULL","enchants":{"PROTECTION_FIRE":4,"PROTECTION_ENVIRONMENTAL":4},"lore":["§7Mermaid
+    II","§7BurnShield I","§b--------------------","§f[§c*§f]:§6đồ dành cho dân cày
+    cuốc","§f[§c*§f]:§6đồ có khả năng §c§lkháng lửa §6rất tốt","§f[§c*§f]:§6 có khả
+    năng nhìn §b§lTrong đêm","§f[§c*§f]:§4đồ khó tìm tránh làm mất !!!!"],"display-name":"§e§ke§b§lHunter:§fđầu
+    thổ dân§e§ke"},"type":"SKULL_ITEM"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWNwQqCQBRFT0biPKK+qI3Yol1g0PpRgw0OKvkg6uvLCQIXrc+59wgImzL2l3bfWbDnSRvB1YM+ukpNC7JwZVVGfXkc2wSOvfmPrHEUYCHk3+1MXpKffWhuNilTxf0CM+9vTVjXIbYJ+vuYUfh0cKjYwRv7i/16uQAAAA==","display-name":"§eBlaze
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":8,"DAMAGE_ALL":6},"lore":["§4§l۩=======§d§lஜ۩۞۩ஜ§4§l=========۩","§f[§dthông
+    tin§f]:","§f[§d۩*۩§f]: §5có sức mạnh tăng dần","§f[§d۩*۩§f]: tăng sinh lực cho
+    người dùng","§f[§5۩*۩§f]: §5có tỷ lệ tạo ra sấm chớp","§f[§d۩*۩§f]: §5có thể hút
+    máu đối phương và làm chậm","§f[§d۩*۩§f]: §5 làm đối trúng độc"],"display-name":"§5§lƸ̴Ӂ̴Ʒ§d§lLưỡi
+    hái darkin§5§lƸ̴Ӂ̴Ʒ"},"type":"DIAMOND_HOE"}'

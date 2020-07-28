@@ -1,0 +1,42 @@
+lastAccountName: Mishanya_Play
+timestamps:
+  login: 1500549819678
+  logout: 1500549964755
+  lastteleport: 1500468641429
+  lastheal: 1500462754744
+  mute: 0
+  kits:
+    slave: 1500178882988
+    citizen: 1500047479871
+    pariah: 1500178878022
+    governor: 1500461936380
+    food: 1500462194670
+  jail: 0
+ipAddress: 115.75.0.240
+lastlocation:
+  world: dungeon
+  x: 2.4990665585271454
+  y: 99.0
+  z: 0.1694793656852041
+  yaw: 18.609758
+  pitch: 29.250008
+logoutlocation:
+  world: world
+  x: 19990.43713293822
+  y: 68.0
+  z: 19985.4308262419
+  yaw: 169.12187
+  pitch: -1.3500104
+godmode: false
+muted: false
+jailed: false
+afk: false
+money: '11800.0'
+homes:
+  fac:
+    world: world
+    x: 19994.064300378734
+    y: 68.0
+    z: 19994.522940304316
+    yaw: -151.72867
+    pitch: 25.574547

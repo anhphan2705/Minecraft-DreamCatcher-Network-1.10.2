@@ -1,0 +1,10 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=","display-name":"§eCave
+    Spider §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAHWN0QqCQBBFrwaLO0T+TF8Q9uBbsEHPgw42uKjoQPT35QaBDz6fc+8hgHC6xLHpr4Opve/cEXyY+DVUbFwg1xYuTNrKDI8ykdto8rU5LgQgI7jfeGsf4B6i3dNWZ+34f2Ir7gcJx6CxT1TmJUch6aKucAY+q80fSr0AAAA=","display-name":"§eSpider
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"PROTECTION_EXPLOSIONS":4}},"type":"ENCHANTED_BOOK"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'

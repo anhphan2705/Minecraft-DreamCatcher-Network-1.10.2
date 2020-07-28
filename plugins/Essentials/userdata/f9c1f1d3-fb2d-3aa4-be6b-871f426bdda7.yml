@@ -1,0 +1,47 @@
+lastAccountName: ThanhVNHC
+timestamps:
+  login: 1501035450757
+  logout: 1501049006667
+  lastteleport: 1501047146768
+  kits:
+    slave: 1501043409541
+    senator: 1500281277904
+    op: 1499154357438
+    citizen: 1500819803647
+    pariah: 1500784933437
+    politician: 1500945597120
+    governor: 1500981065137
+    tools: 1499101550434
+    food: 1500799841956
+  jail: 0
+  mute: 0
+ipAddress: 1.55.45.250
+logoutlocation:
+  world: world
+  x: 24376.06486936364
+  y: 70.0
+  z: 24503.61523981725
+  yaw: 136.10315
+  pitch: 40.04995
+lastlocation:
+  world: spawn
+  x: 27.83920266005683
+  y: 100.0
+  z: 20.655437178486565
+  yaw: 2.096802
+  pitch: 0.8999938
+afk: false
+godmode: false
+money: '306027754.39'
+teleportenabled: true
+nickname: §f§lZeb§d§lPA
+jailed: false
+homes:
+  padb:
+    world: world
+    x: 12561.076631554106
+    y: 57.0
+    z: -5139.282439442825
+    yaw: 76.04057
+    pitch: -7.05002
+muted: false

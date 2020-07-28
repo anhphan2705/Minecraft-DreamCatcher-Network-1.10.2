@@ -1,0 +1,147 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&2Warp Menu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'warp')
+  command: 'warp'
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: ENTITY_VILLAGER_AMBIENT; tell: &eBạn đã mở Menu Warps.'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+spawncmd:
+  COMMAND: 'spawn'
+  NAME: '&c&lSpawn'
+  LORE:
+    - 'Bấm để về Spawn'
+  ID: bed
+  POSITION-X: 1
+  POSITION-Y: 1
+
+back:
+  COMMAND: 'open: menu.yml'
+  NAME: '&6Back to Server menu'
+  ID: barrier
+  LORE:
+    - 'Bấm để mở Server Menu'
+  POSITION-X: 5
+  POSITION-Y: 4
+tp-to-warp-pvp:
+  COMMAND: 'warp pvp'
+  NAME: '&7&lWarp &4&lPvP'
+  ID: 276
+  LORE:
+    - 'Đến khu vực PvP'
+    - 'Nơi bạn có thể PvP không sợ'
+    - 'mất đồ hay power'
+  POSITION-X: 3
+  POSITION-Y: 1
+tp-to-warp-survival:
+  COMMAND: 'warp survival'
+  NAME: '&7&lWarp &a&lSurvival'
+  ID: 2
+  LORE:
+    - 'Bấm để đến warp survival'
+    - 'Nơi mà bạn sẽ sinh tồn'
+    - 'Cẩn thận, chết mất đồ và power'
+  POSITION-X: 5
+  POSITION-Y: 1
+tp-to-warp-crate:
+  COMMAND: 'warp crate'
+  NAME: '&7&lWarp &6&lCrate'
+  ID: chest
+  LORE:
+    - 'Bấm để đến warp crate'
+    - 'Nơi bạn đổi phần thưởng từ hòm quà'
+    - 'Key requried'
+  POSITION-X: 7
+  POSITION-Y: 1  
+tp-to-warp-trade:
+  COMMAND: 'warp trade'
+  NAME: '&7&lWarp &2&lTrade'
+  ID: emerald
+  LORE:
+    - 'Bấm để đến warp crate'
+    - 'Nơi bạn trao đổi hàng hoá với dân làng'
+  POSITION-X: 9
+  POSITION-Y: 1  
+tp-to-warp-enchant:
+  COMMAND: 'warp enchant'
+  NAME: '&7&lWarp &b&lEnchant'
+  ID: 116
+  LORE:
+    - 'Bấm để đến warp enchant'
+    - 'Nơi bạn có thể phù phép vật phẩm'
+  POSITION-X: 2
+  POSITION-Y: 2  
+tp-to-warp-afk:
+  COMMAND: 'warp afk'
+  NAME: '&7&lWarp &9&lAFK'
+  ID: 384
+  LORE:
+    - 'Bấm để đến warp afk'
+    - 'Nơi bạn có thể AFK an toàn và lấy exp'
+  POSITION-X: 4
+  POSITION-Y: 2  
+tp-to-warp-jail:
+  COMMAND: 'warp jail'
+  NAME: '&7&lWarp &4&lJail'
+  ID: 101
+  LORE:
+    - 'Bấm để đến warp jail'
+    - 'Nơi bạn gặp những tội phạm'
+    - 'ở khoảng cách an toàn'
+  POSITION-X: 6
+  POSITION-Y: 2
+tp-to-warp-dungeon:
+  COMMAND: 'warp dungeon'
+  NAME: '&7&lWarp &7&lDungeon'
+  ID: 397
+  LORE:
+    - 'Bấm để đến warp dungeon'
+    - 'Nơi bạn có thể giết boss và đổi đồ boss'
+  POSITION-X: 8
+  POSITION-Y: 2
+tp-to-warp-minigame:
+  COMMAND: ''
+  NAME: '&eMinigame'
+  ID: 385
+  LORE:
+    - '&cComming soon'
+  POSITION-X: 3
+  POSITION-Y: 3
+tp-to-warp-commingsoon:
+  COMMAND: ''
+  NAME: '&7Warp &5Event'
+  ID: 401
+  LORE:
+    - '&cComming Soon'
+  POSITION-X: 5
+  POSITION-Y: 3
+tp-to-nowarp:
+  COMMAND: ''
+  NAME: '&cComming Soon'
+  ID: 52
+  LORE:
+    - 'Để cho đẹp thui :|'
+  POSITION-X: 7
+  POSITION-Y: 3

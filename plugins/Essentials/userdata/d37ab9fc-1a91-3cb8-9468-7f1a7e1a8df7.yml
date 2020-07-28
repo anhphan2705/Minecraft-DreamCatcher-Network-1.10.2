@@ -1,0 +1,24 @@
+lastAccountName: _PvPTHAIPvP_
+timestamps:
+  login: 1501043216967
+  kits:
+    pariah: 1500979282010
+    food: 1500979279028
+  lastteleport: 1500993721669
+  logout: 1501043261636
+ipAddress: 113.166.90.172
+lastlocation:
+  world: dungeon
+  x: 54.02912174290734
+  y: 152.0
+  z: -177.5
+  yaw: -45.753967
+  pitch: 65.25001
+logoutlocation:
+  world: spawn
+  x: 18.26020512036623
+  y: 100.0
+  z: -3.254432503178252
+  yaw: -94.6434
+  pitch: -7.7999864
+money: '203.26'

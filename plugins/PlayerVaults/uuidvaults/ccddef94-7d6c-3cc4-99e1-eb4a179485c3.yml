@@ -1,0 +1,92 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","damage":156,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"PROTECTION_ENVIRONMENTAL":1},"lore":["§7Glowing
+    I","§fSign by §4Owner"],"display-name":"§6Armor of §4Owner"},"type":"DIAMOND_HELMET"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAH2NwQqCUBBFbwbiG6Q+qF3pol3wgtZDDjb4UNGh8O/LJ7gRWt9zzyGAcDiH7tmUralNd64Jzvf8aQs2zpBoBbrwW3yvlQxwOMb11pn8HhxGArAjpItg+9gjfYjWL5u5uefW1Bb+HyfkXkMTCRnGBJlE1bXACfgCgGzdec0AAAA=","display-name":"§eCave
+    Spider §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","damage":7,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"KNOCKBACK":1,"DAMAGE_ALL":4,"FIRE_ASPECT":1},"lore":["§7Pariah
+    §fKit Item","§a--------------","§6 chữ ký : §4 evildark","§dP/s: §b chơi game
+    vui vẻ nha !!!!"],"display-name":"7Pariah fSword","repair-cost":15},"type":"DIAMOND_SWORD"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho bạn
+    khả năng","§3thở dưới nước.","","§6Tìm được trong mục:","§7 - §aCommon","§7 -
+    §9Rare","§6Có thể ép vô: §aMũ","§434% Phá huỷ","§a46% Thành công","§fSigned by
+    §4Owner"],"display-name":"§eMermaid I"},"type":"ENCHANTED_BOOK"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"PROTECTION_ENVIRONMENTAL":1},"lore":["§fSign
+    by §4Owner"],"display-name":"§6Armor of §4Owner"},"type":"DIAMOND_BOOTS"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"meta":{"skull-owner":"Dog","==":"ItemMeta","meta-type":"SKULL","internal":"H4sIAAAAAAAAAE1SSZKjVhCl23ZEdYWP4Z2ignnQohdIzKOAD4i/Y/hiFkiAVHAmH82HsKo39i4jI9+U8d4x7B37M2iXrjvdh0vdoTfsu15gf6Gc4EmBYj9YLmM+GKagPwS0Tz8ujJBdeCYrkEC9Y+8v0Ijuc42mH9jbjD7n5Y6mdwzDvr1hP4K6vKZfm+9/Z6WgDVE+ZQMe6fTtwEQJ0OTlbB69SWwv67LbVNcbCQfw5Dy5gb1OUh2ZU1KGkeQFW7xcirOKT7XXq3GT0Yt39GqziB7286Y1Q1ix3rNg6MueRvBOX0DsNvvrp5U12RJwWXsesgpFmdVsA9IbX2yEA2OJtXXcItW/3zljuUtX4cCJwXGk8MGrMtHUzbOCyJDlDyCr03aMrVCW1X1DPqydx+AH7lk2EC8LmeL6flNwDYhXOQ4m5aT5mssP1D5zVJ8yb0deONW9VMT5TtbAknL1g1Sl/UtgDrJAKKYdryROtgAuviLWyvehNOyyWR7PBs+GPdPqBon34H6Z0f4O8IunNjzlh5ch6mSJnyw6qPewUew+LbnPkXJKXlmQObtFBty2T90LLkPdSEY0HBNJHXPJRoa0FMcTCM0SHRw+fYRdLGrJg3WqSTcDFNV5s4samBzmlK9mej54D55qwY4iSascbtKjd6lnsxgspx+8lds+06sE43BfCCY+FRveaoDtoBhTD0t1H/uWf/LNql5A6WlBLsTIxD3Te4rbbh5pj6iZDqrIy59VSBVdvN5K0c+4gWFAfidtYioPpnGyu6DAfW7kTFU1bMUIlYyTveKuOMg72c2II469qQldjiXHsTPRkX0vH2jKt0XhNq9nLyoG1bQm/8l+chDuOnw2iTjph5U6aSiQhtbYSkk07J9v2B9R2i3o2z9oNYg0Jruc9qvsLNZuI5O2JNL2llP25r3mdtKvhzWj4JipkQGPOqf3UWNL+acr6aQDYO1IHgElm4Ggq2DjMUmf0I5qtBCUq14/61wzHrDvJhiyVRaHtVsbckblr24aWxoXS3L2ybyPAnhWyPRsdF8ahWaQMHjWhRoxhRat8GzX7nWqQ2I2QK1zL98vzPOLayg0/+nWwuN/t0sWdwuMnTWJIWH1bFcc9wQ8V0Tx4rcoeXM2v4cSbG3gEa4KKxvYTwja1ZG+MsisC8TV3krC6XUG9jbjbEVvA5mGjVMlm9I4kk3YklMnoOhhnGz6lZj01jmEcvjL50tn0puhTjWfyKXhYdF+h7RfOTerJ8fs9cO8V/riyC7w7P3nPRDIZHOaF28HgVE5Usu8ml87sbc6oGqdGFYu0GkIkg0Cb7M3mbAppYVSSNpb1cAm2ZLmdRPrtKsqnbPZpH4l9xfv508Me8N+d9IeYb9JQ4lh/wIGG1PPGgUAAA==","lore":["§7OverLoad
+    I"],"display-name":"§fSkull of dog"},"type":"SKULL_ITEM"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":21,"type":"IRON_BLOCK"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"PROTECTION_ENVIRONMENTAL":1},"lore":["§fSign
+    by §4Owner"],"display-name":"§6Armor of §4Owner"},"type":"DIAMOND_LEGGINGS"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"PROTECTION_ENVIRONMENTAL":1},"lore":["§fSign
+    by §4Owner"],"display-name":"§6Armor of §4Owner"},"type":"DIAMOND_CHESTPLATE"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":13,"type":"IRON_INGOT"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"FLINT_AND_STEEL"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","damage":7,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DIG_SPEED":3},"lore":["§9Citizen
+    §fKit Item"],"display-name":"§9Citizen §fShovel"},"type":"DIAMOND_SPADE"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"SILK_TOUCH":1}},"type":"ENCHANTED_BOOK"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"TILE_ENTITY","internal":"H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxhYIvKz03KTGXgZOAHywTkl6QCVSfmFHMxMDAwcjGwQTSjqmZmYAtPzUzPKAGpAdnDCbcCVSFuC7kYeIIzc7LBsqlFxUwMHKlgIzxdGMwYGAB9KvAWvQAAAA==","display-name":"§eZombie
+    §fSpawner","blockMaterial":"MOB_SPAWNER"},"type":"MOB_SPAWNER"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","damage":10,"type":"DIAMOND_HOE"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","amount":7,"type":"BOOKSHELF"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"BUCKET"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":58,"type":"TORCH"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","amount":15,"type":"OBSIDIAN"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","amount":3,"type":"STICK"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"DIG_SPEED":1},"lore":["§7Pariah
+    §fKit Item"],"display-name":"§7Pariah §fShovel"},"type":"DIAMOND_SPADE"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"IRON_BARDING"}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","damage":56,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DAMAGE_ALL":3},"lore":["§9Citizen
+    §fKit Item"],"display-name":"§9Citizen §fAxe"},"type":"DIAMOND_AXE"}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"ARROW_DAMAGE":1},"lore":["§7Pariah
+    §fKit Item"],"display-name":"§7Pariah §fBow"},"type":"BOW"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"ARROW"}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","type":"COMPASS"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"COAL"}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội cho bạn","§3đánh nhanh hơn.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§6Có thể ép vô: §aKiếm","§40% Phá huỷ","§a81% Thành công"],"display-name":"§eLightWeight
+    I"},"type":"ENCHANTED_BOOK"}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội cho bạn","§3đánh nhanh hơn.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§6Có thể ép vô: §aKiếm","§48% Phá huỷ","§a72% Thành công"],"display-name":"§eLightWeight
+    I"},"type":"ENCHANTED_BOOK"}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","amount":42,"type":"BLAZE_ROD"}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","amount":34,"type":"COAL_BLOCK"}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho kẻ
+    địch bay lên cao","§3khi bạn bắn.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§6Có thể ép vô: §aCung","§49% Phá huỷ","§a86% Thành công"],"display-name":"§ePull
+    I"},"type":"ENCHANTED_BOOK"}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Có cơ
+    hội cho bạn","§3đánh nhanh hơn.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§6Có thể ép vô: §aKiếm","§46% Phá huỷ","§a44% Thành công"],"display-name":"§eLightWeight
+    I"},"type":"ENCHANTED_BOOK"}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","lore":["§7Cầm
+    quyển sách và bỏ lên vật phẩm.","§7Chuột phải để xem thêm thông tin.","§3Cho kẻ
+    địch bay lên cao","§3khi bạn bắn.","","§6Tìm được trong mục:","§7 - §aCommon","§7
+    - §9Rare","§6Có thể ép vô: §aCung","§43% Phá huỷ","§a58% Thành công"],"display-name":"§ePull
+    I"},"type":"ENCHANTED_BOOK"}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","damage":65,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":1,"DAMAGE_ALL":1},"lore":["§7Pariah
+    §fKit Item"],"display-name":"§7Pariah §fSword"},"type":"DIAMOND_SWORD"}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","type":"IRON_BARDING"}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_BARDING"}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","type":"SADDLE"}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","type":"SADDLE"}'
+  '39': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3}},"type":"DIAMOND_SWORD"}'
+  '40': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"DIG_SPEED":3},"lore":["§9Citizen
+    §fKit Item"],"display-name":"§9Citizen §fShovel"},"type":"DIAMOND_SPADE"}'
+  '41': '{"==":"org.bukkit.inventory.ItemStack","amount":55,"type":"GRILLED_PORK"}'
+  '42': '{"==":"org.bukkit.inventory.ItemStack","amount":62,"type":"DIAMOND_BLOCK"}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","amount":34,"type":"COOKED_BEEF"}'
+  '44': '{"==":"org.bukkit.inventory.ItemStack","type":"SADDLE"}'
+  '45': '{"==":"org.bukkit.inventory.ItemStack","type":"GOLD_BARDING"}'
+  '46': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"KNOCKBACK":1,"LOOT_BONUS_MOBS":3,"DAMAGE_ALL":5,"FIRE_ASPECT":2,"MENDING":1},"lore":["§7Inquisitive
+    II","§bHuy Thơm","§6ALWAYS LOVE LTBN","§6chữ ký : §4evildark","§d p/s : §bchơi
+    game vui vẽ nhé <3"],"display-name":"best [Sword] pvp","repair-cost":1},"type":"DIAMOND_SWORD"}'
+  '47': '{"==":"org.bukkit.inventory.ItemStack","amount":6,"type":"SUGAR_CANE"}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","damage":17,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":2,"SILK_TOUCH":1,"DIG_SPEED":3},"lore":["§9Citizen
+    §fKit Item"],"display-name":"§9Citizen §fPickaxe"},"type":"DIAMOND_PICKAXE"}'
